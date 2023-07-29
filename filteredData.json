@@ -1,0 +1,148 @@
+[
+  {
+    "store": "hofer",
+    "id": 548526,
+    "name": "RED BULL Energy Drink 250ml",
+    "price": 1.45,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.45
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 250,
+    "bio": false,
+    "url": "sport-energy-drinks/RED-BULL-Energy-Drink-250-ml",
+    "category": "20"
+  },
+  {
+    "store": "hofer",
+    "id": 544579,
+    "name": "RED BULL Energy Drink 355ml",
+    "price": 1.75,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.75
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 355,
+    "bio": false,
+    "url": "sport-energy-drinks/RED-BULL-RED-BULL-355-ml-355-ml",
+    "category": "20"
+  },
+  {
+    "store": "hofer",
+    "id": 548590,
+    "name": "RED BULL Energy Drink 6x250ml",
+    "price": 8.69,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 8.69
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 1500,
+    "bio": false,
+    "url": "sport-energy-drinks/Red-Bull-6x250ml-Regular",
+    "category": "20"
+  },
+  {
+    "store": "hofer",
+    "id": 549184,
+    "name": "RED BULL Energy Drink Kokos-Blaubeere 250ml",
+    "price": 1.45,
+    "priceHistory": [
+      {
+        "date": "2023-06-14",
+        "price": 1.45
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 250,
+    "bio": false,
+    "url": "sport-energy-drinks/RED-BULL-Kokos-Blaubeere-250ml",
+    "category": "20",
+    "unavailable": true
+  },
+  {
+    "store": "hofer",
+    "id": 545062,
+    "name": "RED BULL Energy Drink Sugarfree 250ml",
+    "price": 1.45,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.45
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 250,
+    "bio": false,
+    "url": "sport-energy-drinks/RED-BULL-red-Bull-Sugarfree-250-ml",
+    "category": "20"
+  },
+  {
+    "store": "hofer",
+    "id": 548589,
+    "name": "RED BULL Energy Drink Sugarfree 6x250ml",
+    "price": 8.69,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 8.69
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 1500,
+    "bio": false,
+    "url": "sport-energy-drinks/Red-Bull-6x250ml-Sugarfree",
+    "category": "20"
+  },
+  {
+    "store": "hofer",
+    "id": 549151,
+    "name": "RED BULL Energy Drink Wassermelone 250ml",
+    "price": 1.45,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.45
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 250,
+    "bio": false,
+    "url": "sport-energy-drinks/RED-BULL-Wassermelone-250ml",
+    "category": "20",
+    "unavailable": true
+  },
+  {
+    "store": "hofer",
+    "id": 545111,
+    "name": "RED BULL Energy Drink White Kokos-Blaubeere 250ml",
+    "price": 1.45,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.45
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 250,
+    "bio": false,
+    "url": "sport-energy-drinks/RED-BULL-Red-Bull-White-250-ml",
+    "category": "20"
+  }
+]

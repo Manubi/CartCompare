@@ -1,0 +1,3539 @@
+[
+  {
+    "store": "billa",
+    "id": "00-918428",
+    "name": "BILLA Sonnenblumenöl",
+    "description": "<li>Aus 100% österreichischen Sonnenblumen</li><li>In Österreich hergestellt</li><li>Hoher Gehalt an Vitamin E</li>",
+    "price": 4.99,
+    "priceHistory": [
+      {
+        "date": "2023-03-05",
+        "price": 4.99
+      },
+      {
+        "date": "2023-03-01",
+        "price": 3.74
+      },
+      {
+        "date": "2022-10-06",
+        "price": 4.99
+      },
+      {
+        "date": "2022-07-28",
+        "price": 4.29
+      },
+      {
+        "date": "2022-07-25",
+        "price": 3.22
+      },
+      {
+        "date": "2022-06-03",
+        "price": 4.29
+      },
+      {
+        "date": "2022-06-02",
+        "price": 3.22
+      },
+      {
+        "date": "2022-03-31",
+        "price": 3.99
+      },
+      {
+        "date": "2022-02-28",
+        "price": 3.49
+      },
+      {
+        "date": "2021-07-01",
+        "price": 2.99
+      },
+      {
+        "date": "2021-03-04",
+        "price": 3.19
+      },
+      {
+        "date": "2018-03-28",
+        "price": 2.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 1000,
+    "bio": false,
+    "category": "53"
+  },
+  {
+    "store": "billa",
+    "id": "00-431244",
+    "name": "BILLA Toilettenpapier Sensitiv",
+    "description": "Das Toilettenpapier Sensitiv von BILLA ist extra weich und zart und fühlt sich auf der Haut angenehm sanft an.<li>10 Rollen<li>150 Blatt<li>3-lagig</li>",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2023-03-05",
+        "price": 3.99
+      },
+      {
+        "date": "2023-03-01",
+        "price": 2.99
+      },
+      {
+        "date": "2022-11-17",
+        "price": 3.99
+      },
+      {
+        "date": "2022-09-29",
+        "price": 3.59
+      },
+      {
+        "date": "2022-07-28",
+        "price": 3.49
+      },
+      {
+        "date": "2022-07-25",
+        "price": 2.62
+      },
+      {
+        "date": "2022-06-03",
+        "price": 3.49
+      },
+      {
+        "date": "2022-05-30",
+        "price": 2.62
+      },
+      {
+        "date": "2022-04-21",
+        "price": 3.49
+      },
+      {
+        "date": "2022-02-17",
+        "price": 3.19
+      },
+      {
+        "date": "2021-01-13",
+        "price": 2.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "stk",
+    "quantity": 10,
+    "bio": false,
+    "category": "84"
+  },
+  {
+    "store": "billa",
+    "id": "00-440691",
+    "name": "Butterlaugencroissant",
+    "description": "Das Butterlaugencroissant besteht zu 18 % aus Butter. Und das schmeckt man. Es ist perfekt zum Frühstück oder belegt für zwischendurch.<li>Weizen-Plundergebäck mit echter Butter<li>enthält Ei- und Milchprodukte",
+    "price": 0.99,
+    "priceHistory": [
+      {
+        "date": "2023-07-06",
+        "price": 0.99
+      },
+      {
+        "date": "2023-06-22",
+        "price": 0.79
+      },
+      {
+        "date": "2023-05-25",
+        "price": 0.99
+      },
+      {
+        "date": "2023-05-13",
+        "price": 0.79
+      },
+      {
+        "date": "2023-03-23",
+        "price": 0.99
+      },
+      {
+        "date": "2023-03-02",
+        "price": 0.79
+      },
+      {
+        "date": "2023-01-01",
+        "price": 0.99
+      },
+      {
+        "date": "2022-12-27",
+        "price": 0.79
+      },
+      {
+        "date": "2022-11-24",
+        "price": 0.99
+      },
+      {
+        "date": "2022-11-10",
+        "price": 0.69
+      },
+      {
+        "date": "2022-07-07",
+        "price": 0.89
+      },
+      {
+        "date": "2022-06-23",
+        "price": 0.59
+      },
+      {
+        "date": "2022-05-25",
+        "price": 0.89
+      },
+      {
+        "date": "2022-05-12",
+        "price": 0.59
+      },
+      {
+        "date": "2022-04-07",
+        "price": 0.89
+      },
+      {
+        "date": "2022-03-31",
+        "price": 0.82
+      },
+      {
+        "date": "2022-03-17",
+        "price": 0.59
+      },
+      {
+        "date": "2022-03-03",
+        "price": 0.61
+      },
+      {
+        "date": "2022-02-03",
+        "price": 0.82
+      },
+      {
+        "date": "2022-01-20",
+        "price": 0.59
+      },
+      {
+        "date": "2022-01-01",
+        "price": 0.82
+      },
+      {
+        "date": "2021-12-27",
+        "price": 0.54
+      },
+      {
+        "date": "2021-11-25",
+        "price": 0.82
+      },
+      {
+        "date": "2021-11-11",
+        "price": 0.52
+      },
+      {
+        "date": "2021-09-02",
+        "price": 0.79
+      },
+      {
+        "date": "2021-08-19",
+        "price": 0.39
+      },
+      {
+        "date": "2021-07-08",
+        "price": 0.79
+      },
+      {
+        "date": "2021-06-24",
+        "price": 0.39
+      },
+      {
+        "date": "2021-05-27",
+        "price": 0.79
+      },
+      {
+        "date": "2021-05-12",
+        "price": 0.52
+      },
+      {
+        "date": "2021-04-15",
+        "price": 0.79
+      },
+      {
+        "date": "2021-04-07",
+        "price": 0.52
+      },
+      {
+        "date": "2021-02-04",
+        "price": 0.89
+      },
+      {
+        "date": "2021-01-21",
+        "price": 0.59
+      },
+      {
+        "date": "2020-12-03",
+        "price": 0.89
+      },
+      {
+        "date": "2020-11-19",
+        "price": 0.59
+      },
+      {
+        "date": "2020-08-27",
+        "price": 0.89
+      },
+      {
+        "date": "2020-08-13",
+        "price": 0.59
+      },
+      {
+        "date": "2020-07-02",
+        "price": 0.89
+      },
+      {
+        "date": "2020-06-18",
+        "price": 0.59
+      },
+      {
+        "date": "2020-05-20",
+        "price": 0.89
+      },
+      {
+        "date": "2020-05-07",
+        "price": 0.59
+      },
+      {
+        "date": "2020-03-29",
+        "price": 0.89
+      },
+      {
+        "date": "2020-03-26",
+        "price": 0.49
+      },
+      {
+        "date": "2020-01-19",
+        "price": 0.89
+      },
+      {
+        "date": "2020-01-16",
+        "price": 0.49
+      },
+      {
+        "date": "2019-08-25",
+        "price": 0.89
+      },
+      {
+        "date": "2019-08-22",
+        "price": 0.49
+      },
+      {
+        "date": "2019-06-23",
+        "price": 0.89
+      },
+      {
+        "date": "2019-06-20",
+        "price": 0.49
+      },
+      {
+        "date": "2019-05-12",
+        "price": 0.89
+      },
+      {
+        "date": "2019-05-09",
+        "price": 0.49
+      },
+      {
+        "date": "2019-03-31",
+        "price": 0.89
+      },
+      {
+        "date": "2019-03-28",
+        "price": 0.49
+      },
+      {
+        "date": "2019-01-20",
+        "price": 0.89
+      },
+      {
+        "date": "2019-01-17",
+        "price": 0.48
+      },
+      {
+        "date": "2018-11-04",
+        "price": 0.89
+      },
+      {
+        "date": "2018-11-01",
+        "price": 0.48
+      },
+      {
+        "date": "2018-08-26",
+        "price": 0.89
+      },
+      {
+        "date": "2018-08-23",
+        "price": 0.48
+      },
+      {
+        "date": "2018-06-07",
+        "price": 0.89
+      },
+      {
+        "date": "2018-06-04",
+        "price": 0.48
+      },
+      {
+        "date": "2017-06-01",
+        "price": 0.89
+      },
+      {
+        "date": "2017-05-18",
+        "price": 0.79
+      },
+      {
+        "date": "2017-04-05",
+        "price": 0.89
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 60,
+    "bio": false,
+    "category": "13"
+  },
+  {
+    "store": "billa",
+    "id": "00-258074",
+    "name": "Clever Bananen aus Kolumbien",
+    "description": "Bananen sind nach dem Apfel das beliebteste Obst der Österreicher. Ob als süßer Snack zwischendurch oder in herzhaften Gerichten verarbeitet, ist die tropische Frucht ein echtes Multitalent und lässt sich vielfältig einsetzen.<li>milder und süßer Geschmack<li>Vitaminreich<li>ideal zum Kochen oder Rohverzehr",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2023-05-06",
+        "price": 1.69
+      },
+      {
+        "date": "2023-04-29",
+        "price": 1.49
+      },
+      {
+        "date": "2023-03-07",
+        "price": 1.69
+      },
+      {
+        "date": "2023-02-19",
+        "price": 1.79
+      },
+      {
+        "date": "2023-01-03",
+        "price": 1.49
+      },
+      {
+        "date": "2023-01-01",
+        "price": 1.79
+      },
+      {
+        "date": "2022-07-19",
+        "price": 1.49
+      },
+      {
+        "date": "2022-03-22",
+        "price": 1.39
+      },
+      {
+        "date": "2022-02-01",
+        "price": 1.29
+      },
+      {
+        "date": "2022-01-02",
+        "price": 1.39
+      },
+      {
+        "date": "2021-03-14",
+        "price": 1.19
+      },
+      {
+        "date": "2020-02-19",
+        "price": 1.39
+      },
+      {
+        "date": "2020-01-09",
+        "price": 1.29
+      },
+      {
+        "date": "2020-01-02",
+        "price": 1
+      },
+      {
+        "date": "2019-09-05",
+        "price": 1.29
+      },
+      {
+        "date": "2019-09-02",
+        "price": 0.88
+      },
+      {
+        "date": "2019-08-07",
+        "price": 1.29
+      },
+      {
+        "date": "2019-03-07",
+        "price": 1.39
+      },
+      {
+        "date": "2019-02-28",
+        "price": 1
+      },
+      {
+        "date": "2019-01-17",
+        "price": 1.39
+      },
+      {
+        "date": "2019-01-10",
+        "price": 1
+      },
+      {
+        "date": "2019-01-09",
+        "price": 1.39
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "category": "00"
+  },
+  {
+    "store": "billa",
+    "id": "00-317050",
+    "name": "Clever Faschiertes gemischt",
+    "description": "In Österreich hergestellt.",
+    "price": 4.89,
+    "priceHistory": [
+      {
+        "date": "2022-09-05",
+        "price": 4.89
+      },
+      {
+        "date": "2022-06-15",
+        "price": 4.75
+      },
+      {
+        "date": "2022-06-09",
+        "price": 4.49
+      },
+      {
+        "date": "2022-05-24",
+        "price": 4.75
+      },
+      {
+        "date": "2022-03-10",
+        "price": 4.49
+      },
+      {
+        "date": "2022-03-01",
+        "price": 3.99
+      },
+      {
+        "date": "2021-10-25",
+        "price": 3.49
+      },
+      {
+        "date": "2021-09-27",
+        "price": 3.77
+      },
+      {
+        "date": "2021-02-10",
+        "price": 3.49
+      },
+      {
+        "date": "2020-03-05",
+        "price": 3.99
+      },
+      {
+        "date": "2020-01-06",
+        "price": 4.19
+      },
+      {
+        "date": "2019-09-18",
+        "price": 3.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 700,
+    "bio": false,
+    "category": "32"
+  },
+  {
+    "store": "billa",
+    "id": "00-374991",
+    "name": "Clever Gehackte Tomaten",
+    "description": "",
+    "price": 0.59,
+    "priceHistory": [
+      {
+        "date": "2023-04-15",
+        "price": 0.59
+      },
+      {
+        "date": "2023-02-07",
+        "price": 0.55
+      },
+      {
+        "date": "2022-04-21",
+        "price": 0.47
+      },
+      {
+        "date": "2022-02-03",
+        "price": 0.45
+      },
+      {
+        "date": "2020-08-12",
+        "price": 0.39
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 400,
+    "bio": false,
+    "category": "57"
+  },
+  {
+    "store": "billa",
+    "id": "00-668140",
+    "name": "Clever Joghurt Natur 3.6%",
+    "description": "Das clever® Naturjoghurt 3,6% besticht durch seine besonders cremige Konsistenz. Egal ob pur oder gemeinsam mit Früchten, das cremige clever® Naturjoghurt ist ein wahrer Klassiker.",
+    "price": 0.39,
+    "priceHistory": [
+      {
+        "date": "2023-04-06",
+        "price": 0.39
+      },
+      {
+        "date": "2022-12-15",
+        "price": 0.45
+      },
+      {
+        "date": "2022-06-02",
+        "price": 0.39
+      },
+      {
+        "date": "2022-02-28",
+        "price": 0.35
+      },
+      {
+        "date": "2022-02-03",
+        "price": 0.29
+      },
+      {
+        "date": "2021-11-18",
+        "price": 0.33
+      },
+      {
+        "date": "2021-11-08",
+        "price": 0.29
+      },
+      {
+        "date": "2021-09-30",
+        "price": 0.31
+      },
+      {
+        "date": "2020-12-10",
+        "price": 0.29
+      },
+      {
+        "date": "2020-01-30",
+        "price": 0.37
+      },
+      {
+        "date": "2018-10-06",
+        "price": 0.35
+      },
+      {
+        "date": "2018-05-07",
+        "price": 0.33
+      },
+      {
+        "date": "2017-08-04",
+        "price": 0.35
+      },
+      {
+        "date": "2017-04-05",
+        "price": 0.33
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 250,
+    "bio": false,
+    "category": "34"
+  },
+  {
+    "store": "billa",
+    "id": "00-861713",
+    "name": "Clever Orangensaft",
+    "description": "Der 100% reine Fruchsaft ohne Zuckerzusatz verspricht Erfrischung und eignet sich hervorragend für den puren Genuss oder zum Mischen mit Mineralwasser oder anderen Säften.",
+    "price": 1.19,
+    "priceHistory": [
+      {
+        "date": "2022-10-21",
+        "price": 1.19
+      },
+      {
+        "date": "2022-05-05",
+        "price": 0.99
+      },
+      {
+        "date": "2022-03-22",
+        "price": 0.89
+      },
+      {
+        "date": "2021-09-16",
+        "price": 0.79
+      },
+      {
+        "date": "2018-06-20",
+        "price": 0.89
+      },
+      {
+        "date": "2017-10-19",
+        "price": 0.95
+      },
+      {
+        "date": "2017-07-06",
+        "price": 0.89
+      },
+      {
+        "date": "2017-04-05",
+        "price": 0.95
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 1000,
+    "bio": false,
+    "category": "20"
+  },
+  {
+    "store": "billa",
+    "id": "00-379560",
+    "name": "Clever Spaghetti",
+    "description": "",
+    "price": 1.49,
+    "priceHistory": [
+      {
+        "date": "2022-09-29",
+        "price": 1.49
+      },
+      {
+        "date": "2021-11-11",
+        "price": 1.19
+      },
+      {
+        "date": "2021-10-01",
+        "price": 0.99
+      },
+      {
+        "date": "2020-09-16",
+        "price": 0.78
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "category": "5B",
+    "unavailable": true
+  },
+  {
+    "store": "billa",
+    "id": "00-425504",
+    "name": "Clever Weizentoast",
+    "description": "clever® Toastbrot wird aus hochwertigen Zutaten hergestellt und eignet sich wunderbar als Frühstück. Für die süßen Genießer mit Haselnußcreme, Konfitüre oder Honig oder für pikante Feinschmecker mit frischem Schinken und Käse!\n\n\n",
+    "price": 0.95,
+    "priceHistory": [
+      {
+        "date": "2022-11-07",
+        "price": 0.95
+      },
+      {
+        "date": "2022-08-25",
+        "price": 0.99
+      },
+      {
+        "date": "2022-06-09",
+        "price": 0.95
+      },
+      {
+        "date": "2022-06-01",
+        "price": 0.89
+      },
+      {
+        "date": "2022-05-26",
+        "price": 0.95
+      },
+      {
+        "date": "2022-03-24",
+        "price": 0.89
+      },
+      {
+        "date": "2022-01-06",
+        "price": 0.79
+      },
+      {
+        "date": "2021-07-15",
+        "price": 0.69
+      },
+      {
+        "date": "2021-02-04",
+        "price": 0.59
+      },
+      {
+        "date": "2018-12-06",
+        "price": 0.69
+      },
+      {
+        "date": "2017-04-05",
+        "price": 0.59
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "category": "10"
+  },
+  {
+    "store": "billa",
+    "id": "00-827690",
+    "name": "Ja! Natürlich Bio-Butter",
+    "description": "Die Ja! Natürlich Österreichische Bio-Butter wird aus bester heimischer Bio-Milch von ausgewählten österreichischen Bio-Bauernhöfen hergestellt und überzeugt durch ihren vollen rahmigen Geschmack.<li>100% Bio-Rahm<li>Rahmig-vollmundig<li>Gentechnikfrei<li>100% Bio<li>Aus Österreich</li>",
+    "price": 2.19,
+    "priceHistory": [
+      {
+        "date": "2023-07-21",
+        "price": 2.19
+      },
+      {
+        "date": "2023-07-19",
+        "price": 2.75
+      },
+      {
+        "date": "2023-07-14",
+        "price": 2.06
+      },
+      {
+        "date": "2023-07-06",
+        "price": 2.75
+      },
+      {
+        "date": "2023-06-22",
+        "price": 2.29
+      },
+      {
+        "date": "2023-06-11",
+        "price": 2.75
+      },
+      {
+        "date": "2023-06-07",
+        "price": 2.06
+      },
+      {
+        "date": "2023-05-13",
+        "price": 2.75
+      },
+      {
+        "date": "2023-04-29",
+        "price": 2.79
+      },
+      {
+        "date": "2023-04-22",
+        "price": 2.49
+      },
+      {
+        "date": "2023-03-25",
+        "price": 2.79
+      },
+      {
+        "date": "2023-03-17",
+        "price": 2.19
+      },
+      {
+        "date": "2023-03-02",
+        "price": 2.79
+      },
+      {
+        "date": "2023-02-07",
+        "price": 2.99
+      },
+      {
+        "date": "2023-02-03",
+        "price": 2.24
+      },
+      {
+        "date": "2023-02-02",
+        "price": 2.47
+      },
+      {
+        "date": "2023-01-08",
+        "price": 3.29
+      },
+      {
+        "date": "2023-01-05",
+        "price": 2.47
+      },
+      {
+        "date": "2022-12-18",
+        "price": 3.29
+      },
+      {
+        "date": "2022-12-16",
+        "price": 2.47
+      },
+      {
+        "date": "2022-12-01",
+        "price": 3.29
+      },
+      {
+        "date": "2022-11-11",
+        "price": 3.19
+      },
+      {
+        "date": "2022-11-06",
+        "price": 2.49
+      },
+      {
+        "date": "2022-11-04",
+        "price": 1.87
+      },
+      {
+        "date": "2022-10-27",
+        "price": 2.49
+      },
+      {
+        "date": "2022-10-06",
+        "price": 3.19
+      },
+      {
+        "date": "2022-10-03",
+        "price": 2.87
+      },
+      {
+        "date": "2022-09-19",
+        "price": 3.19
+      },
+      {
+        "date": "2022-09-08",
+        "price": 2.99
+      },
+      {
+        "date": "2022-09-05",
+        "price": 2.24
+      },
+      {
+        "date": "2022-07-28",
+        "price": 2.99
+      },
+      {
+        "date": "2022-07-14",
+        "price": 2.89
+      },
+      {
+        "date": "2022-07-11",
+        "price": 2.17
+      },
+      {
+        "date": "2022-05-27",
+        "price": 2.89
+      },
+      {
+        "date": "2022-05-25",
+        "price": 2.79
+      },
+      {
+        "date": "2022-05-23",
+        "price": 2.09
+      },
+      {
+        "date": "2022-04-21",
+        "price": 2.79
+      },
+      {
+        "date": "2022-03-03",
+        "price": 2.69
+      },
+      {
+        "date": "2022-02-17",
+        "price": 1.99
+      },
+      {
+        "date": "2022-01-11",
+        "price": 2.59
+      },
+      {
+        "date": "2022-01-09",
+        "price": 2.49
+      },
+      {
+        "date": "2022-01-07",
+        "price": 1.87
+      },
+      {
+        "date": "2021-12-09",
+        "price": 2.49
+      },
+      {
+        "date": "2021-11-25",
+        "price": 1.99
+      },
+      {
+        "date": "2021-10-14",
+        "price": 2.39
+      },
+      {
+        "date": "2021-09-30",
+        "price": 1.99
+      },
+      {
+        "date": "2021-06-24",
+        "price": 2.39
+      },
+      {
+        "date": "2021-06-10",
+        "price": 1.99
+      },
+      {
+        "date": "2021-05-27",
+        "price": 2.39
+      },
+      {
+        "date": "2021-05-05",
+        "price": 2.49
+      },
+      {
+        "date": "2020-11-05",
+        "price": 2.19
+      },
+      {
+        "date": "2020-08-27",
+        "price": 2.59
+      },
+      {
+        "date": "2020-08-13",
+        "price": 2.19
+      },
+      {
+        "date": "2020-06-18",
+        "price": 2.59
+      },
+      {
+        "date": "2020-06-04",
+        "price": 1.99
+      },
+      {
+        "date": "2020-04-15",
+        "price": 2.59
+      },
+      {
+        "date": "2020-02-27",
+        "price": 2.69
+      },
+      {
+        "date": "2020-02-13",
+        "price": 2.19
+      },
+      {
+        "date": "2019-12-05",
+        "price": 2.69
+      },
+      {
+        "date": "2019-11-21",
+        "price": 2.49
+      },
+      {
+        "date": "2019-11-07",
+        "price": 2.39
+      },
+      {
+        "date": "2019-11-06",
+        "price": 2.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 250,
+    "bio": true,
+    "category": "34"
+  },
+  {
+    "store": "billa",
+    "id": "00-12494",
+    "name": "Red Bull Energy Drink",
+    "description": "FLÜGEL, WENN MAN SIE BRAUCHT<br>Red Bull Energy Drink belebt Geist und Körper®. Red Bull Energy Drink, die #1 unter den Energy Drinks in Österreich, ist ein funktionales Getränk, das Flügel verleiht, wann immer man sie braucht: beim Autofahren, wenn Vorlesungen oder Prüfungen anstehen, bei der Arbeit, beim Sport oder Gaming oder beim Ausgehen - am Tag oder in der Nacht.<br><br>DAS PRODUKT<li>250 ml Dose Red Bull Energy Drink<li>Die spezielle Formel von Red Bull Energy Drink enthält Zutaten höchster Qualität: Koffein, Taurin, B-Komplex-Vitamine, Zucker, alpines Wasser<li>Red Bull Dosen bestehen zu 100 % aus recycelbarem Aluminium</li><br>Energy Drink - erhöhter Koffeingehalt. Für Kinder und schwangere oder stillende Frauen nicht empfohlen. In moderaten Mengen konsumieren.",
+    "price": 1.49,
+    "priceHistory": [
+      {
+        "date": "2023-06-29",
+        "price": 1.49
+      },
+      {
+        "date": "2023-05-30",
+        "price": 1.29
+      },
+      {
+        "date": "2023-01-27",
+        "price": 1.49
+      },
+      {
+        "date": "2023-01-24",
+        "price": 1.12
+      },
+      {
+        "date": "2022-09-19",
+        "price": 1.49
+      },
+      {
+        "date": "2022-09-01",
+        "price": 1.29
+      },
+      {
+        "date": "2022-08-18",
+        "price": 1.49
+      },
+      {
+        "date": "2022-08-04",
+        "price": 1.29
+      },
+      {
+        "date": "2022-07-21",
+        "price": 1.49
+      },
+      {
+        "date": "2022-07-14",
+        "price": 0.89
+      },
+      {
+        "date": "2022-06-23",
+        "price": 1.49
+      },
+      {
+        "date": "2022-06-15",
+        "price": 0.89
+      },
+      {
+        "date": "2022-05-12",
+        "price": 1.49
+      },
+      {
+        "date": "2022-05-05",
+        "price": 0.89
+      },
+      {
+        "date": "2022-04-07",
+        "price": 1.49
+      },
+      {
+        "date": "2022-03-31",
+        "price": 0.89
+      },
+      {
+        "date": "2022-03-10",
+        "price": 1.49
+      },
+      {
+        "date": "2022-03-03",
+        "price": 0.89
+      },
+      {
+        "date": "2022-02-20",
+        "price": 1.49
+      },
+      {
+        "date": "2022-02-18",
+        "price": 1.12
+      },
+      {
+        "date": "2022-02-10",
+        "price": 1.49
+      },
+      {
+        "date": "2022-02-03",
+        "price": 0.89
+      },
+      {
+        "date": "2022-01-23",
+        "price": 1.49
+      },
+      {
+        "date": "2022-01-21",
+        "price": 1.12
+      },
+      {
+        "date": "2022-01-20",
+        "price": 1.49
+      },
+      {
+        "date": "2022-01-13",
+        "price": 0.89
+      },
+      {
+        "date": "2022-01-06",
+        "price": 1.49
+      },
+      {
+        "date": "2021-12-16",
+        "price": 0.89
+      },
+      {
+        "date": "2021-11-18",
+        "price": 1.49
+      },
+      {
+        "date": "2021-11-11",
+        "price": 0.89
+      },
+      {
+        "date": "2021-09-30",
+        "price": 1.49
+      },
+      {
+        "date": "2021-09-23",
+        "price": 0.89
+      },
+      {
+        "date": "2021-09-02",
+        "price": 1.49
+      },
+      {
+        "date": "2021-08-19",
+        "price": 1.29
+      },
+      {
+        "date": "2021-08-07",
+        "price": 1.49
+      },
+      {
+        "date": "2021-08-05",
+        "price": 1.29
+      },
+      {
+        "date": "2021-07-29",
+        "price": 0.89
+      },
+      {
+        "date": "2021-07-22",
+        "price": 1.49
+      },
+      {
+        "date": "2021-07-08",
+        "price": 0.99
+      },
+      {
+        "date": "2021-06-10",
+        "price": 1.49
+      },
+      {
+        "date": "2021-06-02",
+        "price": 0.89
+      },
+      {
+        "date": "2021-04-15",
+        "price": 1.49
+      },
+      {
+        "date": "2021-04-07",
+        "price": 0.79
+      },
+      {
+        "date": "2021-03-18",
+        "price": 1.19
+      },
+      {
+        "date": "2021-02-04",
+        "price": 1.49
+      },
+      {
+        "date": "2021-01-28",
+        "price": 0.89
+      },
+      {
+        "date": "2021-01-01",
+        "price": 1.49
+      },
+      {
+        "date": "2020-12-17",
+        "price": 0.89
+      },
+      {
+        "date": "2020-12-03",
+        "price": 1.19
+      },
+      {
+        "date": "2020-11-19",
+        "price": 1.49
+      },
+      {
+        "date": "2020-10-22",
+        "price": 1.29
+      },
+      {
+        "date": "2020-10-01",
+        "price": 1.49
+      },
+      {
+        "date": "2020-09-24",
+        "price": 0.89
+      },
+      {
+        "date": "2020-09-10",
+        "price": 1.19
+      },
+      {
+        "date": "2020-08-27",
+        "price": 1.29
+      },
+      {
+        "date": "2020-08-13",
+        "price": 1.49
+      },
+      {
+        "date": "2020-07-30",
+        "price": 1.29
+      },
+      {
+        "date": "2020-07-16",
+        "price": 1.49
+      },
+      {
+        "date": "2020-07-02",
+        "price": 1.29
+      },
+      {
+        "date": "2020-06-04",
+        "price": 1.49
+      },
+      {
+        "date": "2020-05-20",
+        "price": 1.29
+      },
+      {
+        "date": "2020-05-07",
+        "price": 0.89
+      },
+      {
+        "date": "2020-04-09",
+        "price": 1.49
+      },
+      {
+        "date": "2020-03-26",
+        "price": 1.29
+      },
+      {
+        "date": "2020-03-13",
+        "price": 1.49
+      },
+      {
+        "date": "2020-03-12",
+        "price": 1.5
+      },
+      {
+        "date": "2020-02-27",
+        "price": 1.29
+      },
+      {
+        "date": "2020-02-09",
+        "price": 1.49
+      },
+      {
+        "date": "2020-02-06",
+        "price": 0.89
+      },
+      {
+        "date": "2020-01-30",
+        "price": 1.49
+      },
+      {
+        "date": "2020-01-16",
+        "price": 1.19
+      },
+      {
+        "date": "2020-01-02",
+        "price": 1.49
+      },
+      {
+        "date": "2019-12-19",
+        "price": 0.89
+      },
+      {
+        "date": "2019-11-21",
+        "price": 1.49
+      },
+      {
+        "date": "2019-10-24",
+        "price": 1.29
+      },
+      {
+        "date": "2019-10-10",
+        "price": 1.49
+      },
+      {
+        "date": "2019-09-26",
+        "price": 1.29
+      },
+      {
+        "date": "2019-09-12",
+        "price": 1.49
+      },
+      {
+        "date": "2019-08-29",
+        "price": 0.89
+      },
+      {
+        "date": "2019-08-15",
+        "price": 1.49
+      },
+      {
+        "date": "2019-08-01",
+        "price": 1.29
+      },
+      {
+        "date": "2019-07-18",
+        "price": 1.49
+      },
+      {
+        "date": "2019-07-04",
+        "price": 1.29
+      },
+      {
+        "date": "2019-06-20",
+        "price": 1.49
+      },
+      {
+        "date": "2019-06-06",
+        "price": 1.29
+      },
+      {
+        "date": "2019-05-23",
+        "price": 1.49
+      },
+      {
+        "date": "2019-05-09",
+        "price": 1.29
+      },
+      {
+        "date": "2019-04-14",
+        "price": 1.49
+      },
+      {
+        "date": "2019-04-11",
+        "price": 0.89
+      },
+      {
+        "date": "2019-03-14",
+        "price": 1.49
+      },
+      {
+        "date": "2019-02-28",
+        "price": 1.29
+      },
+      {
+        "date": "2019-01-31",
+        "price": 1.49
+      },
+      {
+        "date": "2019-01-17",
+        "price": 1.29
+      },
+      {
+        "date": "2019-01-03",
+        "price": 1.49
+      },
+      {
+        "date": "2018-12-20",
+        "price": 0.89
+      },
+      {
+        "date": "2018-12-06",
+        "price": 1.49
+      },
+      {
+        "date": "2018-11-22",
+        "price": 1.29
+      },
+      {
+        "date": "2018-11-08",
+        "price": 1.49
+      },
+      {
+        "date": "2018-10-18",
+        "price": 1.29
+      },
+      {
+        "date": "2018-09-20",
+        "price": 1.49
+      },
+      {
+        "date": "2018-08-23",
+        "price": 1.29
+      },
+      {
+        "date": "2018-08-12",
+        "price": 1.49
+      },
+      {
+        "date": "2018-08-09",
+        "price": 0.89
+      },
+      {
+        "date": "2018-08-02",
+        "price": 1.49
+      },
+      {
+        "date": "2018-07-19",
+        "price": 1.29
+      },
+      {
+        "date": "2018-06-21",
+        "price": 1.49
+      },
+      {
+        "date": "2018-05-17",
+        "price": 1.29
+      },
+      {
+        "date": "2018-04-19",
+        "price": 1.49
+      },
+      {
+        "date": "2018-04-05",
+        "price": 1.29
+      },
+      {
+        "date": "2018-03-15",
+        "price": 1.49
+      },
+      {
+        "date": "2018-03-01",
+        "price": 1.29
+      },
+      {
+        "date": "2018-02-01",
+        "price": 1.49
+      },
+      {
+        "date": "2018-01-18",
+        "price": 1.25
+      },
+      {
+        "date": "2018-01-04",
+        "price": 1.49
+      },
+      {
+        "date": "2017-12-21",
+        "price": 1.29
+      },
+      {
+        "date": "2017-11-09",
+        "price": 1.59
+      },
+      {
+        "date": "2017-10-19",
+        "price": 1.29
+      },
+      {
+        "date": "2017-10-09",
+        "price": 1.49
+      },
+      {
+        "date": "2017-09-21",
+        "price": 0.99
+      },
+      {
+        "date": "2017-09-09",
+        "price": 1.49
+      },
+      {
+        "date": "2017-08-24",
+        "price": 1.29
+      },
+      {
+        "date": "2017-08-10",
+        "price": 1.49
+      },
+      {
+        "date": "2017-07-27",
+        "price": 1.29
+      },
+      {
+        "date": "2017-07-13",
+        "price": 1.49
+      },
+      {
+        "date": "2017-06-13",
+        "price": 1.29
+      },
+      {
+        "date": "2017-06-01",
+        "price": 1.49
+      },
+      {
+        "date": "2017-05-18",
+        "price": 1.29
+      },
+      {
+        "date": "2017-04-20",
+        "price": 1.49
+      },
+      {
+        "date": "2017-04-05",
+        "price": 1.29
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 250,
+    "bio": false,
+    "category": "20"
+  },
+  {
+    "store": "billa",
+    "id": "00-804413",
+    "name": "Wunderlinge Äpfel aus Österreich",
+    "description": "Klasse II",
+    "price": 2.59,
+    "priceHistory": [
+      {
+        "date": "2023-05-16",
+        "price": 2.59
+      },
+      {
+        "date": "2022-10-25",
+        "price": 2.39
+      },
+      {
+        "date": "2022-08-14",
+        "price": 2.49
+      },
+      {
+        "date": "2022-08-12",
+        "price": 1.87
+      },
+      {
+        "date": "2022-08-03",
+        "price": 2.49
+      },
+      {
+        "date": "2022-07-12",
+        "price": 2.59
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 2000,
+    "bio": false,
+    "category": "00"
+  },
+  {
+    "store": "billa",
+    "id": "00-432809",
+    "name": "nöm Guten Morgen Milch 1.8%",
+    "description": "Zu einem guten Frühstück gehört ein Glas Milch. Mit der NÖM Guten Morgen Milch mit 1,8 % Fett startet die ganze Familie frisch in den Tag.<li>teilentrahmte Milch, hocherhitzt<li>mit Milch aus regionaler Produktion<li>gentechnikfreie Herstellung",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2023-06-01",
+        "price": 1.69
+      },
+      {
+        "date": "2022-11-03",
+        "price": 1.79
+      },
+      {
+        "date": "2022-06-07",
+        "price": 1.59
+      },
+      {
+        "date": "2022-04-11",
+        "price": 1.39
+      },
+      {
+        "date": "2022-02-11",
+        "price": 1.45
+      },
+      {
+        "date": "2022-01-20",
+        "price": 1.39
+      },
+      {
+        "date": "2021-08-02",
+        "price": 1.35
+      },
+      {
+        "date": "2020-03-19",
+        "price": 1.29
+      },
+      {
+        "date": "2020-01-30",
+        "price": 1.35
+      },
+      {
+        "date": "2020-01-09",
+        "price": 1.25
+      },
+      {
+        "date": "2019-10-03",
+        "price": 1.29
+      },
+      {
+        "date": "2017-08-10",
+        "price": 1.25
+      },
+      {
+        "date": "2017-04-20",
+        "price": 1.19
+      },
+      {
+        "date": "2017-04-05",
+        "price": 1.25
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 1000,
+    "bio": false,
+    "category": "34"
+  },
+  {
+    "store": "hofer",
+    "id": 546069,
+    "name": "BACKBOX Buttercroissant 63g",
+    "price": 0.59,
+    "priceHistory": [
+      {
+        "date": "2023-06-14",
+        "price": 0.59
+      },
+      {
+        "date": "2023-05-18",
+        "price": 0.65
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 63,
+    "bio": false,
+    "url": "backbox/Butter-Croissant-63-g",
+    "category": "11"
+  },
+  {
+    "store": "hofer",
+    "id": 545932,
+    "name": "BELLASAN Natives kaltgepresstes Sonnenblumenöl 500ml",
+    "price": 2.19,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 2.19
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 500,
+    "bio": false,
+    "url": "essig-ol-saucen/BELLASAN-Natives-kaltgepresstes-Sonnenblumenol-500-ml",
+    "category": "53"
+  },
+  {
+    "store": "hofer",
+    "id": 546133,
+    "name": "CUCINA NOBILE Passierte Tomaten 500g",
+    "price": 0.59,
+    "priceHistory": [
+      {
+        "date": "2023-05-25",
+        "price": 0.59
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "url": "gemusekonserven/CUCINA-NOBILE-passierte-Tomaten-500-g",
+    "category": "57"
+  },
+  {
+    "store": "hofer",
+    "id": 546368,
+    "name": "CUCINA NOBILE Spaghetti 1kg",
+    "price": 1.48,
+    "priceHistory": [
+      {
+        "date": "2023-06-23",
+        "price": 1.48
+      },
+      {
+        "date": "2023-05-18",
+        "price": 1.49
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "url": "reis-teigwaren-getreide/Spaghetti-1kg-2",
+    "category": "5B"
+  },
+  {
+    "store": "hofer",
+    "id": 546468,
+    "name": "GENUSS 100% AUS ÖSTERREICH Frisches Faschiertes mit 50% Schweinefleisch 500g",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 3.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "url": "faschiertes/Faschiertes-gemischt-500g",
+    "category": "32"
+  },
+  {
+    "store": "hofer",
+    "id": 544863,
+    "name": "HAPPY HARVEST Weizen Toastbrot 500g",
+    "price": 0.95,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 0.95
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 500,
+    "bio": false,
+    "url": "brot-geback-2/HAPPY-HARVEST-Weizen-Toastbrot-500-g",
+    "category": "12"
+  },
+  {
+    "store": "hofer",
+    "id": 545173,
+    "name": "HOFER MARKPLATZ Äpfel gelb",
+    "price": 1.79,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.79
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "url": "obst/Apfel-lose-gelb",
+    "category": "00"
+  },
+  {
+    "store": "hofer",
+    "id": 545162,
+    "name": "HOFER MARKTPLATZ Bananen",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.69
+      }
+    ],
+    "isWeighted": true,
+    "unit": "g",
+    "quantity": 1000,
+    "bio": false,
+    "url": "obst/Banane-lose",
+    "category": "00"
+  },
+  {
+    "store": "hofer",
+    "id": 546139,
+    "name": "KOKETT Comfort Toilettenpapier 3-lagig 180 Blatt Rollen 10 Stück",
+    "price": 2.98,
+    "priceHistory": [
+      {
+        "date": "2023-07-05",
+        "price": 2.98
+      },
+      {
+        "date": "2023-05-18",
+        "price": 2.99
+      }
+    ],
+    "isWeighted": false,
+    "unit": "stk",
+    "quantity": 10,
+    "bio": false,
+    "url": "hygieneartikel/KOKETT-Toilettenpapiper-3-lagig-10x180-Blatt-Rollen",
+    "category": "84"
+  },
+  {
+    "store": "hofer",
+    "id": 546469,
+    "name": "MILFINA Cremiges Fettarmes Naturjoghurt 0,1% Fett 250g",
+    "price": 0.35,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 0.35
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 250,
+    "bio": false,
+    "url": "joghurt-topfen/Joghurt-0-1-250g-2",
+    "category": "34"
+  },
+  {
+    "store": "hofer",
+    "id": 546088,
+    "name": "MILFINA Leichte Milch 1l",
+    "price": 1.25,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.25
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 1000,
+    "bio": false,
+    "url": "milch-sahne-butter/MILFINA-Leichte-Milch-1-l",
+    "category": "34"
+  },
+  {
+    "store": "hofer",
+    "id": 546430,
+    "name": "MILFINA Teebutter 250g",
+    "price": 1.85,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.85
+      }
+    ],
+    "isWeighted": false,
+    "unit": "g",
+    "quantity": 250,
+    "bio": false,
+    "url": "milch-sahne-butter/Butter-250g-Standard",
+    "category": "34"
+  },
+  {
+    "store": "hofer",
+    "id": 548526,
+    "name": "RED BULL Energy Drink 250ml",
+    "price": 1.45,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.45
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 250,
+    "bio": false,
+    "url": "sport-energy-drinks/RED-BULL-Energy-Drink-250-ml",
+    "category": "20"
+  },
+  {
+    "store": "hofer",
+    "id": 548597,
+    "name": "RIO D´ORO Orangensaft 1l",
+    "price": 1.19,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.19
+      }
+    ],
+    "isWeighted": false,
+    "unit": "ml",
+    "quantity": 1000,
+    "bio": false,
+    "url": "fruchtsafte/Orangensaft-1l-PET-Orange",
+    "category": "20"
+  },
+  {
+    "store": "spar",
+    "id": "8185433",
+    "name": "Cosy Toilettenpapier 10 Rollen",
+    "description": "- 100% recycelbare Verpackung* - Die Verpackung ist recycelbar und wird aus über 30% recyceltem Plastik hergestellt - für weniger Plastikmüll.<br>- weniger Bedruckung auf der Verpackung - der Umwelt zuliebe<br>- mit Komfortöffnung<br><br>Tigerstarke Zuverlässigkeit<br>Unser Liebstes fühlt sich nicht nur gut an, es ist auch gut zur Haut. Mit den 3 komfortablen und zuverlässigen Qualitätslagen steht der sanften Reinigung nichts mehr im Wege. Kein Wunder, dass sich unser Cosy Tiger so wohlfühlt.<br><br>* Recyclingfähig gemäß ISO 18604, für verschiedene Verwendungszwecke. Das tatsächliche Recycling hängt von mehreren Faktoren ab, z.B. von der regionalen Verfügbarkeit eines Recyclingsystems.",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2023-01-10",
+        "price": 3.99
+      },
+      {
+        "date": "2023-01-02",
+        "price": 4.49
+      },
+      {
+        "date": "2022-12-14",
+        "price": 3.99
+      },
+      {
+        "date": "2022-10-11",
+        "price": 4.49
+      },
+      {
+        "date": "2022-10-06",
+        "price": 3.79
+      },
+      {
+        "date": "2022-09-30",
+        "price": 3.39
+      },
+      {
+        "date": "2022-04-28",
+        "price": 3.79
+      },
+      {
+        "date": "2022-04-07",
+        "price": 2.89
+      },
+      {
+        "date": "2022-03-23",
+        "price": 3.39
+      },
+      {
+        "date": "2021-11-10",
+        "price": 3.19
+      },
+      {
+        "date": "2021-08-27",
+        "price": 2.99
+      },
+      {
+        "date": "2021-08-12",
+        "price": 2.69
+      },
+      {
+        "date": "2021-06-18",
+        "price": 2.99
+      },
+      {
+        "date": "2021-06-02",
+        "price": 2.69
+      },
+      {
+        "date": "2021-04-23",
+        "price": 2.99
+      },
+      {
+        "date": "2021-04-08",
+        "price": 2.69
+      },
+      {
+        "date": "2020-08-21",
+        "price": 2.99
+      },
+      {
+        "date": "2020-08-06",
+        "price": 2.69
+      },
+      {
+        "date": "2020-06-11",
+        "price": 2.99
+      },
+      {
+        "date": "2020-05-28",
+        "price": 2.69
+      },
+      {
+        "date": "2020-04-17",
+        "price": 2.99
+      },
+      {
+        "date": "2020-04-02",
+        "price": 2.69
+      },
+      {
+        "date": "2020-01-22",
+        "price": 2.99
+      },
+      {
+        "date": "2019-08-15",
+        "price": 3.19
+      },
+      {
+        "date": "2019-08-01",
+        "price": 2.69
+      },
+      {
+        "date": "2019-06-20",
+        "price": 3.19
+      },
+      {
+        "date": "2019-06-06",
+        "price": 2.69
+      },
+      {
+        "date": "2019-04-12",
+        "price": 3.19
+      },
+      {
+        "date": "2019-03-28",
+        "price": 2.69
+      },
+      {
+        "date": "2019-02-27",
+        "price": 3.19
+      },
+      {
+        "date": "2018-08-10",
+        "price": 2.99
+      },
+      {
+        "date": "2018-07-26",
+        "price": 2.44
+      },
+      {
+        "date": "2018-06-29",
+        "price": 2.99
+      },
+      {
+        "date": "2018-06-14",
+        "price": 2.44
+      },
+      {
+        "date": "2018-04-20",
+        "price": 2.99
+      },
+      {
+        "date": "2018-04-04",
+        "price": 2.44
+      },
+      {
+        "date": "2017-06-29",
+        "price": 2.99
+      },
+      {
+        "date": "2017-06-15",
+        "price": 2.44
+      },
+      {
+        "date": "2017-04-20",
+        "price": 2.99
+      }
+    ],
+    "unit": "stk",
+    "quantity": 10,
+    "isWeighted": false,
+    "bio": false,
+    "category": "84"
+  },
+  {
+    "store": "spar",
+    "id": "7365270",
+    "name": "DESPAR Spaghetti n° 5",
+    "description": "",
+    "price": 1.59,
+    "priceHistory": [
+      {
+        "date": "2022-10-11",
+        "price": 1.59
+      },
+      {
+        "date": "2022-04-08",
+        "price": 1.49
+      },
+      {
+        "date": "2022-03-30",
+        "price": 1.19
+      },
+      {
+        "date": "2022-02-18",
+        "price": 1.29
+      },
+      {
+        "date": "2022-02-02",
+        "price": 1.19
+      },
+      {
+        "date": "2021-11-10",
+        "price": 1.29
+      },
+      {
+        "date": "2021-09-29",
+        "price": 1.19
+      },
+      {
+        "date": "2021-09-24",
+        "price": 0.99
+      },
+      {
+        "date": "2021-09-08",
+        "price": 0.79
+      },
+      {
+        "date": "2021-06-18",
+        "price": 0.99
+      },
+      {
+        "date": "2021-06-09",
+        "price": 0.79
+      },
+      {
+        "date": "2020-09-04",
+        "price": 0.99
+      },
+      {
+        "date": "2020-08-25",
+        "price": 0.79
+      },
+      {
+        "date": "2020-03-20",
+        "price": 0.99
+      },
+      {
+        "date": "2020-02-26",
+        "price": 0.89
+      },
+      {
+        "date": "2019-11-22",
+        "price": 0.99
+      },
+      {
+        "date": "2019-11-06",
+        "price": 0.66
+      },
+      {
+        "date": "2019-08-15",
+        "price": 0.99
+      },
+      {
+        "date": "2019-07-31",
+        "price": 0.59
+      },
+      {
+        "date": "2019-02-24",
+        "price": 0.99
+      },
+      {
+        "date": "2019-01-12",
+        "price": 0.66
+      },
+      {
+        "date": "2018-11-16",
+        "price": 0.99
+      },
+      {
+        "date": "2018-10-30",
+        "price": 0.59
+      },
+      {
+        "date": "2018-04-20",
+        "price": 0.99
+      },
+      {
+        "date": "2018-04-03",
+        "price": 0.59
+      },
+      {
+        "date": "2018-03-15",
+        "price": 0.99
+      },
+      {
+        "date": "2018-02-28",
+        "price": 0.59
+      },
+      {
+        "date": "2018-02-01",
+        "price": 0.99
+      },
+      {
+        "date": "2018-01-17",
+        "price": 0.66
+      },
+      {
+        "date": "2017-11-30",
+        "price": 0.99
+      },
+      {
+        "date": "2017-11-21",
+        "price": 0.66
+      },
+      {
+        "date": "2017-11-17",
+        "price": 0.99
+      },
+      {
+        "date": "2017-10-30",
+        "price": 0.66
+      },
+      {
+        "date": "2017-10-03",
+        "price": 0.99
+      },
+      {
+        "date": "2017-07-11",
+        "price": 0.66
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.99
+      }
+    ],
+    "unit": "g",
+    "quantity": 500,
+    "isWeighted": false,
+    "bio": false,
+    "category": "5B"
+  },
+  {
+    "store": "spar",
+    "id": "5048854",
+    "name": "NÖM Guten Morgen Milch 1,8 % Fett länger frisch",
+    "description": "- Die Guten Morgen Milch mitnatürlichem Calcium der Milch und Vitamin D wird durch ein einzigartiges Filtrationsverfahren länger frisch. <br>- Dadurch behält die Milch ihren frischen Geschmack, den Sie jetzt mit nur 1,8% Fett leichter* und länger genießen können. <br>- *leicht, weil 49% wenigerFett als Vollmilch.",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2023-05-23",
+        "price": 1.69
+      },
+      {
+        "date": "2022-11-14",
+        "price": 1.75
+      },
+      {
+        "date": "2022-09-30",
+        "price": 1.59
+      }
+    ],
+    "unit": "ml",
+    "quantity": 1000,
+    "isWeighted": false,
+    "bio": false,
+    "category": "34"
+  },
+  {
+    "store": "spar",
+    "id": "2729497",
+    "name": "NÖM Natur Joghurt 1 % Fett löffelfest",
+    "description": "",
+    "price": 0.59,
+    "priceHistory": [
+      {
+        "date": "2023-05-23",
+        "price": 0.59
+      },
+      {
+        "date": "2022-11-14",
+        "price": 0.63
+      },
+      {
+        "date": "2022-09-30",
+        "price": 0.58
+      }
+    ],
+    "unit": "g",
+    "quantity": 250,
+    "isWeighted": false,
+    "bio": false,
+    "category": "34"
+  },
+  {
+    "store": "spar",
+    "id": "2020002496678",
+    "name": "Osolio Reines Sonnenblumenöl",
+    "description": "In Osolio steckt die geballte Kraft bester Sonnenblumenkerne: mehrfach ungesättigte Fettsäuren, Vitamin E und feinster Geschmack.  Erlesene Zutaten und die schonende Verarbeitung machen Osolio zum idealen täglichen Begleiter der guten Küche: für knackige Salate, festliche Braten und Gebackenes.",
+    "price": 3.49,
+    "priceHistory": [
+      {
+        "date": "2022-04-29",
+        "price": 3.49
+      },
+      {
+        "date": "2021-07-27",
+        "price": 2.49
+      },
+      {
+        "date": "2018-10-12",
+        "price": 1.99
+      },
+      {
+        "date": "2018-09-12",
+        "price": 1.39
+      },
+      {
+        "date": "2018-07-24",
+        "price": 1.99
+      }
+    ],
+    "unit": "ml",
+    "quantity": 500,
+    "isWeighted": false,
+    "bio": false,
+    "category": "53"
+  },
+  {
+    "store": "spar",
+    "id": "3215098",
+    "name": "Pinzgau Milch Bergbauern Butter 82% Fett",
+    "description": "",
+    "price": 2.59,
+    "priceHistory": [
+      {
+        "date": "2023-02-22",
+        "price": 2.59
+      },
+      {
+        "date": "2022-12-01",
+        "price": 2.79
+      },
+      {
+        "date": "2022-09-30",
+        "price": 2.59
+      },
+      {
+        "date": "2022-03-11",
+        "price": 2.25
+      },
+      {
+        "date": "2022-02-10",
+        "price": 1.79
+      },
+      {
+        "date": "2022-01-22",
+        "price": 2.25
+      },
+      {
+        "date": "2021-11-19",
+        "price": 2.15
+      },
+      {
+        "date": "2021-11-04",
+        "price": 1.59
+      },
+      {
+        "date": "2021-10-01",
+        "price": 2.15
+      },
+      {
+        "date": "2021-08-12",
+        "price": 2.09
+      },
+      {
+        "date": "2021-07-28",
+        "price": 1.49
+      },
+      {
+        "date": "2020-03-07",
+        "price": 2.09
+      },
+      {
+        "date": "2019-07-08",
+        "price": 1.99
+      },
+      {
+        "date": "2018-06-19",
+        "price": 2.29
+      },
+      {
+        "date": "2018-03-30",
+        "price": 2.09
+      },
+      {
+        "date": "2018-02-21",
+        "price": 2.19
+      }
+    ],
+    "unit": "g",
+    "quantity": 250,
+    "isWeighted": false,
+    "bio": false,
+    "category": "34"
+  },
+  {
+    "store": "spar",
+    "id": "151238",
+    "name": "Red Bull Energy Drink",
+    "description": "FLÜGEL, WENN MAN SIE BRAUCHT: <br>Red Bull Energy Drink belebt Geist und Körper®. Red Bull Energy Drink, die #1 unter den Energy Drinks in Österreich, ist ein funktionales Getränk, das Flügel verleiht, wann immer man sie braucht: beim Autofahren, wenn Vorlesungen oder Prüfungen anstehen, bei der Arbeit, beim Sport oder Gaming oder beim Ausgehen – am Tag oder in der Nacht....<br><br>DAS PRODUKT:<br>• 250 ml Dose Red Bull Energy Drink<br>• die spezielle Formel von Red Bull Energy Drink enthält Zutaten höchster Qualität: Koffein, Taurin, B-Komplex-Vitamine, Zucker, alpines Wasser <br>• Red Bull Dosen bestehen zu 100% aus recycelbarem Aluminium<br><br>",
+    "price": 1.49,
+    "priceHistory": [
+      {
+        "date": "2023-01-02",
+        "price": 1.49
+      },
+      {
+        "date": "2022-12-21",
+        "price": 0.89
+      },
+      {
+        "date": "2022-11-03",
+        "price": 1.49
+      },
+      {
+        "date": "2022-10-19",
+        "price": 0.89
+      },
+      {
+        "date": "2022-04-28",
+        "price": 1.49
+      },
+      {
+        "date": "2022-04-07",
+        "price": 0.89
+      },
+      {
+        "date": "2022-03-04",
+        "price": 1.49
+      },
+      {
+        "date": "2022-02-17",
+        "price": 0.89
+      },
+      {
+        "date": "2022-01-04",
+        "price": 1.49
+      },
+      {
+        "date": "2021-12-21",
+        "price": 0.89
+      },
+      {
+        "date": "2021-11-05",
+        "price": 1.49
+      },
+      {
+        "date": "2021-10-21",
+        "price": 1.19
+      },
+      {
+        "date": "2021-08-13",
+        "price": 1.49
+      },
+      {
+        "date": "2021-07-29",
+        "price": 1.19
+      },
+      {
+        "date": "2021-07-02",
+        "price": 1.49
+      },
+      {
+        "date": "2021-06-24",
+        "price": 0.89
+      },
+      {
+        "date": "2021-06-03",
+        "price": 1.49
+      },
+      {
+        "date": "2021-05-20",
+        "price": 1.19
+      },
+      {
+        "date": "2021-04-09",
+        "price": 1.49
+      },
+      {
+        "date": "2021-03-25",
+        "price": 0.89
+      },
+      {
+        "date": "2021-01-05",
+        "price": 1.49
+      },
+      {
+        "date": "2020-12-22",
+        "price": 0.89
+      },
+      {
+        "date": "2020-08-21",
+        "price": 1.49
+      },
+      {
+        "date": "2020-08-07",
+        "price": 0.89
+      },
+      {
+        "date": "2020-07-23",
+        "price": 1.19
+      },
+      {
+        "date": "2020-07-10",
+        "price": 1.49
+      },
+      {
+        "date": "2020-06-25",
+        "price": 1.19
+      },
+      {
+        "date": "2020-05-15",
+        "price": 1.49
+      },
+      {
+        "date": "2020-04-29",
+        "price": 0.97
+      },
+      {
+        "date": "2020-02-28",
+        "price": 1.49
+      },
+      {
+        "date": "2020-02-13",
+        "price": 0.99
+      },
+      {
+        "date": "2019-11-22",
+        "price": 1.49
+      },
+      {
+        "date": "2019-11-07",
+        "price": 0.97
+      },
+      {
+        "date": "2019-10-25",
+        "price": 1.49
+      },
+      {
+        "date": "2019-10-10",
+        "price": 0.97
+      },
+      {
+        "date": "2019-07-19",
+        "price": 1.49
+      },
+      {
+        "date": "2019-07-04",
+        "price": 0.97
+      },
+      {
+        "date": "2019-03-01",
+        "price": 1.49
+      },
+      {
+        "date": "2019-02-24",
+        "price": 0.99
+      },
+      {
+        "date": "2019-01-12",
+        "price": 1.49
+      },
+      {
+        "date": "2018-11-22",
+        "price": 0.97
+      },
+      {
+        "date": "2018-11-01",
+        "price": 1.49
+      },
+      {
+        "date": "2018-10-18",
+        "price": 0.99
+      },
+      {
+        "date": "2018-07-27",
+        "price": 1.49
+      },
+      {
+        "date": "2018-07-19",
+        "price": 0.97
+      },
+      {
+        "date": "2018-06-29",
+        "price": 1.49
+      },
+      {
+        "date": "2018-06-14",
+        "price": 0.99
+      },
+      {
+        "date": "2018-04-05",
+        "price": 1.49
+      },
+      {
+        "date": "2018-03-27",
+        "price": 0.97
+      },
+      {
+        "date": "2018-01-05",
+        "price": 1.49
+      },
+      {
+        "date": "2017-12-14",
+        "price": 0.99
+      },
+      {
+        "date": "2017-04-20",
+        "price": 1.49
+      }
+    ],
+    "unit": "ml",
+    "quantity": 250,
+    "isWeighted": false,
+    "bio": false,
+    "category": "20"
+  },
+  {
+    "store": "spar",
+    "id": "6942526",
+    "name": "S-BUDGET Bananen per kg",
+    "description": "Bananen, ein basisches Obst, haben viel Stärke und sind daher sehr vielseitig einsetzbar. Sie können pur, kalt oder sogar warm genossen werden. Der Phantasie sind keine Grenzen gesetzt. Für tolle Rezeptideen schauen Sie doch einfach mal auf www.spar.at/mahlzeit",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2023-07-02",
+        "price": 1.69
+      },
+      {
+        "date": "2023-06-30",
+        "price": 1.49
+      },
+      {
+        "date": "2023-06-04",
+        "price": 1.69
+      },
+      {
+        "date": "2023-06-02",
+        "price": 1.49
+      },
+      {
+        "date": "2023-05-22",
+        "price": 1.69
+      },
+      {
+        "date": "2023-04-21",
+        "price": 1.79
+      },
+      {
+        "date": "2023-04-14",
+        "price": 1.49
+      },
+      {
+        "date": "2023-03-12",
+        "price": 1.79
+      },
+      {
+        "date": "2023-03-11",
+        "price": 1.49
+      },
+      {
+        "date": "2023-02-13",
+        "price": 1.79
+      },
+      {
+        "date": "2023-02-10",
+        "price": 1.29
+      },
+      {
+        "date": "2023-01-16",
+        "price": 1.49
+      },
+      {
+        "date": "2023-01-09",
+        "price": 1
+      },
+      {
+        "date": "2022-12-18",
+        "price": 1.49
+      },
+      {
+        "date": "2022-12-17",
+        "price": 1.19
+      },
+      {
+        "date": "2022-11-20",
+        "price": 1.49
+      },
+      {
+        "date": "2022-11-18",
+        "price": 1.19
+      },
+      {
+        "date": "2022-03-28",
+        "price": 1.49
+      },
+      {
+        "date": "2022-03-25",
+        "price": 1
+      },
+      {
+        "date": "2022-02-22",
+        "price": 1.49
+      },
+      {
+        "date": "2022-02-21",
+        "price": 1.39
+      },
+      {
+        "date": "2022-02-19",
+        "price": 1
+      },
+      {
+        "date": "2022-01-24",
+        "price": 1.39
+      },
+      {
+        "date": "2022-01-12",
+        "price": 1
+      },
+      {
+        "date": "2021-12-20",
+        "price": 1.39
+      },
+      {
+        "date": "2021-12-18",
+        "price": 1
+      },
+      {
+        "date": "2021-11-29",
+        "price": 1.39
+      },
+      {
+        "date": "2021-11-27",
+        "price": 1
+      },
+      {
+        "date": "2021-06-28",
+        "price": 1.39
+      },
+      {
+        "date": "2021-06-26",
+        "price": 1
+      },
+      {
+        "date": "2021-05-02",
+        "price": 1.39
+      },
+      {
+        "date": "2021-04-30",
+        "price": 1
+      },
+      {
+        "date": "2021-04-05",
+        "price": 1.39
+      },
+      {
+        "date": "2021-04-02",
+        "price": 1
+      },
+      {
+        "date": "2021-02-08",
+        "price": 1.39
+      },
+      {
+        "date": "2021-02-06",
+        "price": 1
+      },
+      {
+        "date": "2021-01-19",
+        "price": 1.39
+      },
+      {
+        "date": "2021-01-05",
+        "price": 1
+      },
+      {
+        "date": "2020-11-30",
+        "price": 1.39
+      },
+      {
+        "date": "2020-11-28",
+        "price": 1
+      },
+      {
+        "date": "2020-11-10",
+        "price": 1.39
+      },
+      {
+        "date": "2020-11-07",
+        "price": 1
+      },
+      {
+        "date": "2020-10-19",
+        "price": 1.39
+      },
+      {
+        "date": "2020-10-17",
+        "price": 1
+      },
+      {
+        "date": "2020-09-07",
+        "price": 1.39
+      },
+      {
+        "date": "2020-09-06",
+        "price": 1
+      },
+      {
+        "date": "2020-08-17",
+        "price": 1.39
+      },
+      {
+        "date": "2020-08-14",
+        "price": 1
+      },
+      {
+        "date": "2020-07-27",
+        "price": 1.39
+      },
+      {
+        "date": "2020-07-25",
+        "price": 1
+      },
+      {
+        "date": "2020-07-21",
+        "price": 1.39
+      },
+      {
+        "date": "2020-06-15",
+        "price": 1.29
+      },
+      {
+        "date": "2020-06-12",
+        "price": 1
+      },
+      {
+        "date": "2020-05-25",
+        "price": 1.29
+      },
+      {
+        "date": "2020-05-21",
+        "price": 1
+      },
+      {
+        "date": "2020-05-04",
+        "price": 1.29
+      },
+      {
+        "date": "2020-04-30",
+        "price": 1
+      },
+      {
+        "date": "2020-03-23",
+        "price": 1.29
+      },
+      {
+        "date": "2020-03-21",
+        "price": 1
+      },
+      {
+        "date": "2020-03-02",
+        "price": 1.29
+      },
+      {
+        "date": "2020-02-29",
+        "price": 1
+      },
+      {
+        "date": "2020-02-10",
+        "price": 1.29
+      },
+      {
+        "date": "2020-02-08",
+        "price": 1
+      },
+      {
+        "date": "2020-01-23",
+        "price": 1.29
+      },
+      {
+        "date": "2020-01-08",
+        "price": 1
+      },
+      {
+        "date": "2019-12-09",
+        "price": 1.29
+      },
+      {
+        "date": "2019-12-06",
+        "price": 1
+      },
+      {
+        "date": "2019-11-18",
+        "price": 1.29
+      },
+      {
+        "date": "2019-11-16",
+        "price": 1
+      },
+      {
+        "date": "2019-10-27",
+        "price": 1.29
+      },
+      {
+        "date": "2019-10-24",
+        "price": 1
+      },
+      {
+        "date": "2019-10-07",
+        "price": 1.29
+      },
+      {
+        "date": "2019-10-05",
+        "price": 1
+      },
+      {
+        "date": "2019-09-16",
+        "price": 1.29
+      },
+      {
+        "date": "2019-09-14",
+        "price": 1
+      },
+      {
+        "date": "2019-08-13",
+        "price": 1.29
+      },
+      {
+        "date": "2019-06-10",
+        "price": 1.39
+      },
+      {
+        "date": "2019-06-07",
+        "price": 1
+      },
+      {
+        "date": "2019-05-20",
+        "price": 1.39
+      },
+      {
+        "date": "2019-05-18",
+        "price": 1
+      },
+      {
+        "date": "2019-04-29",
+        "price": 1.39
+      },
+      {
+        "date": "2019-04-27",
+        "price": 1
+      },
+      {
+        "date": "2019-04-08",
+        "price": 1.39
+      },
+      {
+        "date": "2019-04-06",
+        "price": 1
+      },
+      {
+        "date": "2019-02-14",
+        "price": 1.39
+      },
+      {
+        "date": "2019-02-03",
+        "price": 1
+      },
+      {
+        "date": "2018-09-07",
+        "price": 1.39
+      },
+      {
+        "date": "2017-04-20",
+        "price": 1.29
+      }
+    ],
+    "unit": "g",
+    "quantity": 1000,
+    "isWeighted": true,
+    "bio": false,
+    "category": "00"
+  },
+  {
+    "store": "spar",
+    "id": "7615153",
+    "name": "S-BUDGET Buttercroissant 1 STK",
+    "description": "- original französisches Butter-Croissant<br>- Backofenfrisch",
+    "price": 0.59,
+    "priceHistory": [
+      {
+        "date": "2022-09-30",
+        "price": 0.59
+      },
+      {
+        "date": "2022-01-02",
+        "price": 0.55
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.49
+      }
+    ],
+    "unit": "stk",
+    "quantity": 1,
+    "isWeighted": false,
+    "bio": false,
+    "category": "12"
+  },
+  {
+    "store": "spar",
+    "id": "2020002281397",
+    "name": "S-BUDGET Faschiertes gemischt per Packung",
+    "description": "",
+    "price": 5.58,
+    "priceHistory": [
+      {
+        "date": "2023-07-06",
+        "price": 5.58
+      },
+      {
+        "date": "2023-06-22",
+        "price": 4.49
+      },
+      {
+        "date": "2023-05-15",
+        "price": 5.58
+      },
+      {
+        "date": "2023-04-28",
+        "price": 4.49
+      },
+      {
+        "date": "2023-04-14",
+        "price": 5.58
+      },
+      {
+        "date": "2023-03-30",
+        "price": 4.49
+      },
+      {
+        "date": "2023-03-16",
+        "price": 5.58
+      },
+      {
+        "date": "2023-03-02",
+        "price": 3.99
+      },
+      {
+        "date": "2023-02-16",
+        "price": 5.58
+      },
+      {
+        "date": "2023-02-06",
+        "price": 3.99
+      },
+      {
+        "date": "2023-02-02",
+        "price": 5.99
+      },
+      {
+        "date": "2023-01-24",
+        "price": 3.99
+      },
+      {
+        "date": "2023-01-02",
+        "price": 5.99
+      },
+      {
+        "date": "2022-12-01",
+        "price": 4.99
+      },
+      {
+        "date": "2022-11-18",
+        "price": 4.49
+      },
+      {
+        "date": "2022-11-03",
+        "price": 4.99
+      },
+      {
+        "date": "2022-10-06",
+        "price": 3.99
+      },
+      {
+        "date": "2022-04-08",
+        "price": 4.99
+      },
+      {
+        "date": "2022-03-26",
+        "price": 3.49
+      },
+      {
+        "date": "2022-03-10",
+        "price": 4.49
+      },
+      {
+        "date": "2022-02-18",
+        "price": 3.49
+      },
+      {
+        "date": "2022-02-04",
+        "price": 2.99
+      },
+      {
+        "date": "2021-09-25",
+        "price": 3.49
+      },
+      {
+        "date": "2021-09-08",
+        "price": 2.99
+      },
+      {
+        "date": "2021-08-12",
+        "price": 3.49
+      },
+      {
+        "date": "2021-07-28",
+        "price": 2.99
+      },
+      {
+        "date": "2021-03-26",
+        "price": 3.49
+      },
+      {
+        "date": "2021-03-11",
+        "price": 2.99
+      },
+      {
+        "date": "2021-02-17",
+        "price": 3.49
+      },
+      {
+        "date": "2018-02-08",
+        "price": 3.99
+      }
+    ],
+    "unit": "g",
+    "quantity": 700,
+    "isWeighted": false,
+    "bio": false,
+    "category": "32"
+  },
+  {
+    "store": "spar",
+    "id": "7354236",
+    "name": "S-BUDGET Orangennektar aus Orangensaftkonzentrat, 50%",
+    "description": "",
+    "price": 0.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-05",
+        "price": 0.99
+      },
+      {
+        "date": "2023-02-14",
+        "price": 0.95
+      },
+      {
+        "date": "2022-12-06",
+        "price": 0.99
+      },
+      {
+        "date": "2022-02-08",
+        "price": 0.89
+      },
+      {
+        "date": "2017-11-10",
+        "price": 0.95
+      },
+      {
+        "date": "2017-06-27",
+        "price": 0.89
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.95
+      }
+    ],
+    "unit": "ml",
+    "quantity": 1500,
+    "isWeighted": false,
+    "bio": false,
+    "category": "20"
+  },
+  {
+    "store": "spar",
+    "id": "7088087",
+    "name": "S-BUDGET Toastbrot",
+    "description": "",
+    "price": 0.95,
+    "priceHistory": [
+      {
+        "date": "2022-09-30",
+        "price": 0.95
+      },
+      {
+        "date": "2022-03-30",
+        "price": 0.89
+      },
+      {
+        "date": "2022-01-02",
+        "price": 0.77
+      },
+      {
+        "date": "2021-07-14",
+        "price": 0.69
+      },
+      {
+        "date": "2021-02-10",
+        "price": 0.59
+      },
+      {
+        "date": "2019-01-12",
+        "price": 0.69
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.59
+      }
+    ],
+    "unit": "g",
+    "quantity": 500,
+    "isWeighted": false,
+    "bio": false,
+    "category": "11"
+  },
+  {
+    "store": "spar",
+    "id": "6737634",
+    "name": "SPAR Natur*pur Bio-Äpfel Arlet per kg",
+    "description": "Äpfel sind ein Kernobst, das besonders gerne in Österreich genossen wird. Egal ob verkocht, gebacken oder knackfrisch einfach abgebissen.",
+    "price": 2.99,
+    "priceHistory": [
+      {
+        "date": "2023-04-28",
+        "price": 2.99
+      },
+      {
+        "date": "2023-04-21",
+        "price": 2.19
+      },
+      {
+        "date": "2022-12-05",
+        "price": 2.99
+      },
+      {
+        "date": "2022-12-04",
+        "price": 2.79
+      },
+      {
+        "date": "2022-12-02",
+        "price": 1.99
+      },
+      {
+        "date": "2022-11-28",
+        "price": 2.79
+      },
+      {
+        "date": "2022-10-16",
+        "price": 2.99
+      },
+      {
+        "date": "2022-10-13",
+        "price": 2.29
+      },
+      {
+        "date": "2022-04-28",
+        "price": 2.99
+      },
+      {
+        "date": "2022-04-18",
+        "price": 2.49
+      },
+      {
+        "date": "2022-04-11",
+        "price": 2.99
+      },
+      {
+        "date": "2022-04-05",
+        "price": 2.29
+      },
+      {
+        "date": "2022-01-06",
+        "price": 2.99
+      },
+      {
+        "date": "2021-08-07",
+        "price": 3.49
+      },
+      {
+        "date": "2021-01-05",
+        "price": 2.69
+      },
+      {
+        "date": "2020-12-07",
+        "price": 2.79
+      },
+      {
+        "date": "2020-12-05",
+        "price": 2.29
+      },
+      {
+        "date": "2020-10-20",
+        "price": 2.99
+      },
+      {
+        "date": "2020-10-12",
+        "price": 2.79
+      },
+      {
+        "date": "2020-10-09",
+        "price": 2.19
+      },
+      {
+        "date": "2020-10-08",
+        "price": 2.79
+      },
+      {
+        "date": "2020-09-29",
+        "price": 2.19
+      },
+      {
+        "date": "2020-09-15",
+        "price": 2.79
+      },
+      {
+        "date": "2020-06-16",
+        "price": 3.49
+      },
+      {
+        "date": "2020-05-26",
+        "price": 2.79
+      },
+      {
+        "date": "2019-12-13",
+        "price": 2.49
+      },
+      {
+        "date": "2019-12-03",
+        "price": 2.19
+      },
+      {
+        "date": "2019-11-12",
+        "price": 2.49
+      },
+      {
+        "date": "2019-11-04",
+        "price": 2.99
+      },
+      {
+        "date": "2019-11-01",
+        "price": 1.99
+      },
+      {
+        "date": "2019-08-06",
+        "price": 2.99
+      },
+      {
+        "date": "2019-07-09",
+        "price": 3.29
+      },
+      {
+        "date": "2019-06-18",
+        "price": 2.99
+      },
+      {
+        "date": "2019-06-03",
+        "price": 2.49
+      },
+      {
+        "date": "2019-05-30",
+        "price": 1.99
+      },
+      {
+        "date": "2019-05-21",
+        "price": 2.49
+      },
+      {
+        "date": "2019-05-14",
+        "price": 2.19
+      },
+      {
+        "date": "2019-05-12",
+        "price": 2.49
+      },
+      {
+        "date": "2019-05-07",
+        "price": 2.19
+      },
+      {
+        "date": "2019-03-25",
+        "price": 2.49
+      },
+      {
+        "date": "2019-03-23",
+        "price": 1.99
+      },
+      {
+        "date": "2018-11-02",
+        "price": 2.49
+      },
+      {
+        "date": "2018-10-23",
+        "price": 1.99
+      },
+      {
+        "date": "2018-10-15",
+        "price": 2.49
+      },
+      {
+        "date": "2018-10-13",
+        "price": 1.99
+      },
+      {
+        "date": "2018-09-18",
+        "price": 2.49
+      },
+      {
+        "date": "2018-09-11",
+        "price": 2.99
+      },
+      {
+        "date": "2018-08-21",
+        "price": 3.49
+      },
+      {
+        "date": "2018-07-03",
+        "price": 3.99
+      },
+      {
+        "date": "2018-06-05",
+        "price": 2.79
+      },
+      {
+        "date": "2018-05-31",
+        "price": 3.49
+      },
+      {
+        "date": "2017-10-09",
+        "price": 2.79
+      },
+      {
+        "date": "2017-10-03",
+        "price": 2.49
+      }
+    ],
+    "unit": "g",
+    "quantity": 1000,
+    "isWeighted": true,
+    "bio": true,
+    "category": "00"
+  },
+  {
+    "store": "spar",
+    "id": "2103617",
+    "name": "SPAR Vital Polpa Fine Fein gehackte Tomaten",
+    "description": "",
+    "price": 1.39,
+    "priceHistory": [
+      {
+        "date": "2022-10-18",
+        "price": 1.39
+      },
+      {
+        "date": "2021-12-08",
+        "price": 1.19
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.99
+      }
+    ],
+    "unit": "g",
+    "quantity": 400,
+    "isWeighted": false,
+    "bio": false,
+    "category": "57"
+  }
+]
