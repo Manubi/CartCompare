@@ -14,7 +14,7 @@ CartCompare was developed during the [Coding Austria](https://codingaustria.at/)
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+Please find the iOS Swift code in the `CAHack` foler. These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
