@@ -52,10 +52,15 @@ What things you need to install the software:
 
 The application will start on `localhost:3000` (or your specified PORT).
 
-## Testing
+### MIT License
 
-Run the following command in the project directory to run the tests:
+Copyright (c) 2023 Artemiy Malyshau, Manuel Bichler
 
-```sh
-npm test
-```
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so.
+
+See the [LICENSE](LICENSE) file for details.
