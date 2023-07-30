@@ -1,0 +1,1168 @@
+[
+  {
+    "id": "00-918428",
+    "store": "billa",
+    "name": "BILLA Sonnenblumenöl",
+    "description": "<li>Aus 100% österreichischen Sonnenblumen</li><li>In Österreich hergestellt</li><li>Hoher Gehalt an Vitamin E</li>",
+    "price": 4.99,
+    "priceHistory": [
+      {
+        "date": "2023-03-05",
+        "price": 4.99
+      },
+      {
+        "date": "2023-03-01",
+        "price": 3.74
+      },
+      {
+        "date": "2022-10-06",
+        "price": 4.99
+      },
+      {
+        "date": "2022-07-28",
+        "price": 4.29
+      },
+      {
+        "date": "2022-07-25",
+        "price": 3.22
+      }
+    ],
+    "unit": "ml",
+    "quantity": 1000,
+    "calcPricePerUnit": 4.99,
+    "calcUnit": "l",
+    "category": "Sonnenblumenöl"
+  },
+  {
+    "id": "00-431244",
+    "store": "billa",
+    "name": "BILLA Toilettenpapier Sensitiv",
+    "description": "Das Toilettenpapier Sensitiv von BILLA ist extra weich und zart und fühlt sich auf der Haut angenehm sanft an.<li>10 Rollen<li>150 Blatt<li>3-lagig</li>",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2023-03-05",
+        "price": 3.99
+      },
+      {
+        "date": "2023-03-01",
+        "price": 2.99
+      },
+      {
+        "date": "2022-11-17",
+        "price": 3.99
+      },
+      {
+        "date": "2022-09-29",
+        "price": 3.59
+      },
+      {
+        "date": "2022-07-28",
+        "price": 3.49
+      }
+    ],
+    "unit": "stk",
+    "quantity": 10,
+    "calcPricePerUnit": 3.99,
+    "calcUnit": "stk",
+    "category": "Toilettenpapier"
+  },
+  {
+    "id": "00-440691",
+    "store": "billa",
+    "name": "Butterlaugencroissant",
+    "description": "Das Butterlaugencroissant besteht zu 18 % aus Butter. Und das schmeckt man. Es ist perfekt zum Frühstück oder belegt für zwischendurch.<li>Weizen-Plundergebäck mit echter Butter<li>enthält Ei- und Milchprodukte",
+    "price": 0.99,
+    "priceHistory": [
+      {
+        "date": "2023-07-06",
+        "price": 0.99
+      },
+      {
+        "date": "2023-06-22",
+        "price": 0.79
+      },
+      {
+        "date": "2023-05-25",
+        "price": 0.99
+      },
+      {
+        "date": "2023-05-13",
+        "price": 0.79
+      },
+      {
+        "date": "2023-03-23",
+        "price": 0.99
+      }
+    ],
+    "unit": "g",
+    "quantity": 60,
+    "calcPricePerUnit": 16.5,
+    "calcUnit": "kg",
+    "category": "Butter"
+  },
+  {
+    "id": "00-258074",
+    "store": "billa",
+    "name": "Clever Bananen aus Kolumbien",
+    "description": "Bananen sind nach dem Apfel das beliebteste Obst der Österreicher. Ob als süßer Snack zwischendurch oder in herzhaften Gerichten verarbeitet, ist die tropische Frucht ein echtes Multitalent und lässt sich vielfältig einsetzen.<li>milder und süßer Geschmack<li>Vitaminreich<li>ideal zum Kochen oder Rohverzehr",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2023-05-06",
+        "price": 1.69
+      },
+      {
+        "date": "2023-04-29",
+        "price": 1.49
+      },
+      {
+        "date": "2023-03-07",
+        "price": 1.69
+      },
+      {
+        "date": "2023-02-19",
+        "price": 1.79
+      },
+      {
+        "date": "2023-01-03",
+        "price": 1.49
+      }
+    ],
+    "unit": "g",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.69,
+    "calcUnit": "kg",
+    "category": "Bananen"
+  },
+  {
+    "id": "00-317050",
+    "store": "billa",
+    "name": "Clever Faschiertes gemischt",
+    "description": "In Österreich hergestellt.",
+    "price": 4.89,
+    "priceHistory": [
+      {
+        "date": "2022-09-05",
+        "price": 4.89
+      },
+      {
+        "date": "2022-06-15",
+        "price": 4.75
+      },
+      {
+        "date": "2022-06-09",
+        "price": 4.49
+      },
+      {
+        "date": "2022-05-24",
+        "price": 4.75
+      },
+      {
+        "date": "2022-03-10",
+        "price": 4.49
+      }
+    ],
+    "unit": "g",
+    "quantity": 700,
+    "calcPricePerUnit": 6.985714285714285,
+    "calcUnit": "kg",
+    "category": "Faschiertes"
+  },
+  {
+    "id": "00-374991",
+    "store": "billa",
+    "name": "Clever Gehackte Tomaten",
+    "description": "",
+    "price": 0.59,
+    "priceHistory": [
+      {
+        "date": "2023-04-15",
+        "price": 0.59
+      },
+      {
+        "date": "2023-02-07",
+        "price": 0.55
+      },
+      {
+        "date": "2022-04-21",
+        "price": 0.47
+      },
+      {
+        "date": "2022-02-03",
+        "price": 0.45
+      },
+      {
+        "date": "2020-08-12",
+        "price": 0.39
+      }
+    ],
+    "unit": "g",
+    "quantity": 400,
+    "calcPricePerUnit": 1.4749999999999999,
+    "calcUnit": "kg",
+    "category": "Tomaten"
+  },
+  {
+    "id": "00-668140",
+    "store": "billa",
+    "name": "Clever Joghurt Natur 3.6%",
+    "description": "Das clever® Naturjoghurt 3,6% besticht durch seine besonders cremige Konsistenz. Egal ob pur oder gemeinsam mit Früchten, das cremige clever® Naturjoghurt ist ein wahrer Klassiker.",
+    "price": 0.39,
+    "priceHistory": [
+      {
+        "date": "2023-04-06",
+        "price": 0.39
+      },
+      {
+        "date": "2022-12-15",
+        "price": 0.45
+      },
+      {
+        "date": "2022-06-02",
+        "price": 0.39
+      },
+      {
+        "date": "2022-02-28",
+        "price": 0.35
+      },
+      {
+        "date": "2022-02-03",
+        "price": 0.29
+      }
+    ],
+    "unit": "g",
+    "quantity": 250,
+    "calcPricePerUnit": 1.56,
+    "calcUnit": "kg",
+    "category": "Joghurt"
+  },
+  {
+    "id": "00-861713",
+    "store": "billa",
+    "name": "Clever Orangensaft",
+    "description": "Der 100% reine Fruchsaft ohne Zuckerzusatz verspricht Erfrischung und eignet sich hervorragend für den puren Genuss oder zum Mischen mit Mineralwasser oder anderen Säften.",
+    "price": 1.19,
+    "priceHistory": [
+      {
+        "date": "2022-10-21",
+        "price": 1.19
+      },
+      {
+        "date": "2022-05-05",
+        "price": 0.99
+      },
+      {
+        "date": "2022-03-22",
+        "price": 0.89
+      },
+      {
+        "date": "2021-09-16",
+        "price": 0.79
+      },
+      {
+        "date": "2018-06-20",
+        "price": 0.89
+      }
+    ],
+    "unit": "ml",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.19,
+    "calcUnit": "l",
+    "category": "Orangensaft"
+  },
+  {
+    "id": "00-379560",
+    "store": "billa",
+    "name": "Clever Spaghetti",
+    "description": "",
+    "price": 1.49,
+    "priceHistory": [
+      {
+        "date": "2022-09-29",
+        "price": 1.49
+      },
+      {
+        "date": "2021-11-11",
+        "price": 1.19
+      },
+      {
+        "date": "2021-10-01",
+        "price": 0.99
+      },
+      {
+        "date": "2020-09-16",
+        "price": 0.78
+      }
+    ],
+    "unit": "g",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.49,
+    "calcUnit": "kg",
+    "category": "Spaghetti"
+  },
+  {
+    "id": "00-425504",
+    "store": "billa",
+    "name": "Clever Weizentoast",
+    "description": "clever® Toastbrot wird aus hochwertigen Zutaten hergestellt und eignet sich wunderbar als Frühstück. Für die süßen Genießer mit Haselnußcreme, Konfitüre oder Honig oder für pikante Feinschmecker mit frischem Schinken und Käse!\n\n\n",
+    "price": 0.95,
+    "priceHistory": [
+      {
+        "date": "2022-11-07",
+        "price": 0.95
+      },
+      {
+        "date": "2022-08-25",
+        "price": 0.99
+      },
+      {
+        "date": "2022-06-09",
+        "price": 0.95
+      },
+      {
+        "date": "2022-06-01",
+        "price": 0.89
+      },
+      {
+        "date": "2022-05-26",
+        "price": 0.95
+      }
+    ],
+    "unit": "g",
+    "quantity": 500,
+    "calcPricePerUnit": 1.9,
+    "calcUnit": "kg",
+    "category": "Toast"
+  },
+  {
+    "id": "00-827690",
+    "store": "billa",
+    "name": "Ja! Natürlich Bio-Butter",
+    "description": "Die Ja! Natürlich Österreichische Bio-Butter wird aus bester heimischer Bio-Milch von ausgewählten österreichischen Bio-Bauernhöfen hergestellt und überzeugt durch ihren vollen rahmigen Geschmack.<li>100% Bio-Rahm<li>Rahmig-vollmundig<li>Gentechnikfrei<li>100% Bio<li>Aus Österreich</li>",
+    "price": 2.19,
+    "priceHistory": [
+      {
+        "date": "2023-07-21",
+        "price": 2.19
+      },
+      {
+        "date": "2023-07-19",
+        "price": 2.75
+      },
+      {
+        "date": "2023-07-14",
+        "price": 2.06
+      },
+      {
+        "date": "2023-07-06",
+        "price": 2.75
+      },
+      {
+        "date": "2023-06-22",
+        "price": 2.29
+      }
+    ],
+    "unit": "g",
+    "quantity": 250,
+    "calcPricePerUnit": 8.76,
+    "calcUnit": "kg",
+    "category": "Butter"
+  },
+  {
+    "id": "00-12494",
+    "store": "billa",
+    "name": "Red Bull Energy Drink",
+    "description": "FLÜGEL, WENN MAN SIE BRAUCHT<br>Red Bull Energy Drink belebt Geist und Körper®. Red Bull Energy Drink, die #1 unter den Energy Drinks in Österreich, ist ein funktionales Getränk, das Flügel verleiht, wann immer man sie braucht: beim Autofahren, wenn Vorlesungen oder Prüfungen anstehen, bei der Arbeit, beim Sport oder Gaming oder beim Ausgehen - am Tag oder in der Nacht.<br><br>DAS PRODUKT<li>250 ml Dose Red Bull Energy Drink<li>Die spezielle Formel von Red Bull Energy Drink enthält Zutaten höchster Qualität: Koffein, Taurin, B-Komplex-Vitamine, Zucker, alpines Wasser<li>Red Bull Dosen bestehen zu 100 % aus recycelbarem Aluminium</li><br>Energy Drink - erhöhter Koffeingehalt. Für Kinder und schwangere oder stillende Frauen nicht empfohlen. In moderaten Mengen konsumieren.",
+    "price": 1.49,
+    "priceHistory": [
+      {
+        "date": "2023-06-29",
+        "price": 1.49
+      },
+      {
+        "date": "2023-05-30",
+        "price": 1.29
+      },
+      {
+        "date": "2023-01-27",
+        "price": 1.49
+      },
+      {
+        "date": "2023-01-24",
+        "price": 1.12
+      },
+      {
+        "date": "2022-09-19",
+        "price": 1.49
+      }
+    ],
+    "unit": "ml",
+    "quantity": 250,
+    "calcPricePerUnit": 5.96,
+    "calcUnit": "l",
+    "category": "Energy Drink"
+  },
+  {
+    "id": "00-804413",
+    "store": "billa",
+    "name": "Wunderlinge Äpfel aus Österreich",
+    "description": "Klasse II",
+    "price": 2.59,
+    "priceHistory": [
+      {
+        "date": "2023-05-16",
+        "price": 2.59
+      },
+      {
+        "date": "2022-10-25",
+        "price": 2.39
+      },
+      {
+        "date": "2022-08-14",
+        "price": 2.49
+      },
+      {
+        "date": "2022-08-12",
+        "price": 1.87
+      },
+      {
+        "date": "2022-08-03",
+        "price": 2.49
+      }
+    ],
+    "unit": "g",
+    "quantity": 2000,
+    "calcPricePerUnit": 1.295,
+    "calcUnit": "kg",
+    "category": "Äpfel"
+  },
+  {
+    "id": "00-432809",
+    "store": "billa",
+    "name": "nöm Guten Morgen Milch 1.8%",
+    "description": "Zu einem guten Frühstück gehört ein Glas Milch. Mit der NÖM Guten Morgen Milch mit 1,8 % Fett startet die ganze Familie frisch in den Tag.<li>teilentrahmte Milch, hocherhitzt<li>mit Milch aus regionaler Produktion<li>gentechnikfreie Herstellung",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2023-06-01",
+        "price": 1.69
+      },
+      {
+        "date": "2022-11-03",
+        "price": 1.79
+      },
+      {
+        "date": "2022-06-07",
+        "price": 1.59
+      },
+      {
+        "date": "2022-04-11",
+        "price": 1.39
+      },
+      {
+        "date": "2022-02-11",
+        "price": 1.45
+      }
+    ],
+    "unit": "ml",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.69,
+    "calcUnit": "l",
+    "category": "Milch"
+  },
+  {
+    "id": "546069",
+    "store": "hofer",
+    "name": "BACKBOX Buttercroissant 63g",
+    "price": 0.59,
+    "priceHistory": [
+      {
+        "date": "2023-06-14",
+        "price": 0.59
+      },
+      {
+        "date": "2023-05-18",
+        "price": 0.65
+      }
+    ],
+    "unit": "g",
+    "quantity": 63,
+    "calcPricePerUnit": 9.365079365079364,
+    "calcUnit": "kg",
+    "category": "Butter"
+  },
+  {
+    "id": "545932",
+    "store": "hofer",
+    "name": "BELLASAN Natives kaltgepresstes Sonnenblumenöl 500ml",
+    "price": 2.19,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 2.19
+      }
+    ],
+    "unit": "ml",
+    "quantity": 500,
+    "calcPricePerUnit": 4.38,
+    "calcUnit": "l",
+    "category": "Sonnenblumenöl"
+  },
+  {
+    "id": "546133",
+    "store": "hofer",
+    "name": "CUCINA NOBILE Passierte Tomaten 500g",
+    "price": 0.59,
+    "priceHistory": [
+      {
+        "date": "2023-05-25",
+        "price": 0.59
+      }
+    ],
+    "unit": "g",
+    "quantity": 500,
+    "calcPricePerUnit": 1.18,
+    "calcUnit": "kg",
+    "category": "Tomaten"
+  },
+  {
+    "id": "546368",
+    "store": "hofer",
+    "name": "CUCINA NOBILE Spaghetti 1kg",
+    "price": 1.48,
+    "priceHistory": [
+      {
+        "date": "2023-06-23",
+        "price": 1.48
+      },
+      {
+        "date": "2023-05-18",
+        "price": 1.49
+      }
+    ],
+    "unit": "g",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.48,
+    "calcUnit": "kg",
+    "category": "Spaghetti"
+  },
+  {
+    "id": "546468",
+    "store": "hofer",
+    "name": "GENUSS 100% AUS ÖSTERREICH Frisches Faschiertes mit 50% Schweinefleisch 500g",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 3.99
+      }
+    ],
+    "unit": "g",
+    "quantity": 500,
+    "calcPricePerUnit": 7.980000000000001,
+    "calcUnit": "kg",
+    "category": "Faschiertes"
+  },
+  {
+    "id": "544863",
+    "store": "hofer",
+    "name": "HAPPY HARVEST Weizen Toastbrot 500g",
+    "price": 0.95,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 0.95
+      }
+    ],
+    "unit": "g",
+    "quantity": 500,
+    "calcPricePerUnit": 1.9,
+    "calcUnit": "kg",
+    "category": "Toast"
+  },
+  {
+    "id": "545173",
+    "store": "hofer",
+    "name": "HOFER MARKPLATZ Äpfel gelb",
+    "price": 1.79,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.79
+      }
+    ],
+    "unit": "g",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.79,
+    "calcUnit": "kg",
+    "category": "Äpfel"
+  },
+  {
+    "id": "545162",
+    "store": "hofer",
+    "name": "HOFER MARKTPLATZ Bananen",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.69
+      }
+    ],
+    "unit": "g",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.69,
+    "calcUnit": "kg",
+    "category": "Bananen"
+  },
+  {
+    "id": "546139",
+    "store": "hofer",
+    "name": "KOKETT Comfort Toilettenpapier 3-lagig 180 Blatt Rollen 10 Stück",
+    "price": 2.98,
+    "priceHistory": [
+      {
+        "date": "2023-07-05",
+        "price": 2.98
+      },
+      {
+        "date": "2023-05-18",
+        "price": 2.99
+      }
+    ],
+    "unit": "stk",
+    "quantity": 10,
+    "calcPricePerUnit": 2.98,
+    "calcUnit": "stk",
+    "category": "Toilettenpapier"
+  },
+  {
+    "id": "546469",
+    "store": "hofer",
+    "name": "MILFINA Cremiges Fettarmes Naturjoghurt 0,1% Fett 250g",
+    "price": 0.35,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 0.35
+      }
+    ],
+    "unit": "g",
+    "quantity": 250,
+    "calcPricePerUnit": 1.4,
+    "calcUnit": "kg",
+    "category": "Joghurt"
+  },
+  {
+    "id": "546088",
+    "store": "hofer",
+    "name": "MILFINA Leichte Milch 1l",
+    "price": 1.25,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.25
+      }
+    ],
+    "unit": "ml",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.25,
+    "calcUnit": "l",
+    "category": "Milch"
+  },
+  {
+    "id": "546430",
+    "store": "hofer",
+    "name": "MILFINA Teebutter 250g",
+    "price": 1.85,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.85
+      }
+    ],
+    "unit": "g",
+    "quantity": 250,
+    "calcPricePerUnit": 7.4,
+    "calcUnit": "kg",
+    "category": "Butter"
+  },
+  {
+    "id": "548526",
+    "store": "hofer",
+    "name": "RED BULL Energy Drink 250ml",
+    "price": 1.45,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.45
+      }
+    ],
+    "unit": "ml",
+    "quantity": 250,
+    "calcPricePerUnit": 5.8,
+    "calcUnit": "l",
+    "category": "Energy Drink"
+  },
+  {
+    "id": "548597",
+    "store": "hofer",
+    "name": "RIO D´ORO Orangensaft 1l",
+    "price": 1.19,
+    "priceHistory": [
+      {
+        "date": "2023-05-18",
+        "price": 1.19
+      }
+    ],
+    "unit": "ml",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.19,
+    "calcUnit": "l",
+    "category": "Orangensaft"
+  },
+  {
+    "id": "8185433",
+    "store": "spar",
+    "name": "Cosy Toilettenpapier 10 Rollen",
+    "description": "- 100% recycelbare Verpackung* - Die Verpackung ist recycelbar und wird aus über 30% recyceltem Plastik hergestellt - für weniger Plastikmüll.<br>- weniger Bedruckung auf der Verpackung - der Umwelt zuliebe<br>- mit Komfortöffnung<br><br>Tigerstarke Zuverlässigkeit<br>Unser Liebstes fühlt sich nicht nur gut an, es ist auch gut zur Haut. Mit den 3 komfortablen und zuverlässigen Qualitätslagen steht der sanften Reinigung nichts mehr im Wege. Kein Wunder, dass sich unser Cosy Tiger so wohlfühlt.<br><br>* Recyclingfähig gemäß ISO 18604, für verschiedene Verwendungszwecke. Das tatsächliche Recycling hängt von mehreren Faktoren ab, z.B. von der regionalen Verfügbarkeit eines Recyclingsystems.",
+    "price": 3.99,
+    "priceHistory": [
+      {
+        "date": "2023-01-10",
+        "price": 3.99
+      },
+      {
+        "date": "2023-01-02",
+        "price": 4.49
+      },
+      {
+        "date": "2022-12-14",
+        "price": 3.99
+      },
+      {
+        "date": "2022-10-11",
+        "price": 4.49
+      },
+      {
+        "date": "2022-10-06",
+        "price": 3.79
+      }
+    ],
+    "unit": "stk",
+    "quantity": 10,
+    "calcPricePerUnit": 3.99,
+    "calcUnit": "stk",
+    "category": "Toilettenpapier"
+  },
+  {
+    "id": "7365270",
+    "store": "spar",
+    "name": "DESPAR Spaghetti n° 5",
+    "description": "",
+    "price": 1.59,
+    "priceHistory": [
+      {
+        "date": "2022-10-11",
+        "price": 1.59
+      },
+      {
+        "date": "2022-04-08",
+        "price": 1.49
+      },
+      {
+        "date": "2022-03-30",
+        "price": 1.19
+      },
+      {
+        "date": "2022-02-18",
+        "price": 1.29
+      },
+      {
+        "date": "2022-02-02",
+        "price": 1.19
+      }
+    ],
+    "unit": "g",
+    "quantity": 500,
+    "calcPricePerUnit": 3.18,
+    "calcUnit": "kg",
+    "category": "Spaghetti"
+  },
+  {
+    "id": "5048854",
+    "store": "spar",
+    "name": "NÖM Guten Morgen Milch 1,8 % Fett länger frisch",
+    "description": "- Die Guten Morgen Milch mitnatürlichem Calcium der Milch und Vitamin D wird durch ein einzigartiges Filtrationsverfahren länger frisch. <br>- Dadurch behält die Milch ihren frischen Geschmack, den Sie jetzt mit nur 1,8% Fett leichter* und länger genießen können. <br>- *leicht, weil 49% wenigerFett als Vollmilch.",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2023-05-23",
+        "price": 1.69
+      },
+      {
+        "date": "2022-11-14",
+        "price": 1.75
+      },
+      {
+        "date": "2022-09-30",
+        "price": 1.59
+      }
+    ],
+    "unit": "ml",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.69,
+    "calcUnit": "l",
+    "category": "Milch"
+  },
+  {
+    "id": "2729497",
+    "store": "spar",
+    "name": "NÖM Natur Joghurt 1 % Fett löffelfest",
+    "description": "",
+    "price": 0.59,
+    "priceHistory": [
+      {
+        "date": "2023-05-23",
+        "price": 0.59
+      },
+      {
+        "date": "2022-11-14",
+        "price": 0.63
+      },
+      {
+        "date": "2022-09-30",
+        "price": 0.58
+      }
+    ],
+    "unit": "g",
+    "quantity": 250,
+    "calcPricePerUnit": 2.36,
+    "calcUnit": "kg",
+    "category": "Joghurt"
+  },
+  {
+    "id": "2020002496678",
+    "store": "spar",
+    "name": "Osolio Reines Sonnenblumenöl",
+    "description": "In Osolio steckt die geballte Kraft bester Sonnenblumenkerne: mehrfach ungesättigte Fettsäuren, Vitamin E und feinster Geschmack.  Erlesene Zutaten und die schonende Verarbeitung machen Osolio zum idealen täglichen Begleiter der guten Küche: für knackige Salate, festliche Braten und Gebackenes.",
+    "price": 3.49,
+    "priceHistory": [
+      {
+        "date": "2022-04-29",
+        "price": 3.49
+      },
+      {
+        "date": "2021-07-27",
+        "price": 2.49
+      },
+      {
+        "date": "2018-10-12",
+        "price": 1.99
+      },
+      {
+        "date": "2018-09-12",
+        "price": 1.39
+      },
+      {
+        "date": "2018-07-24",
+        "price": 1.99
+      }
+    ],
+    "unit": "ml",
+    "quantity": 500,
+    "calcPricePerUnit": 6.98,
+    "calcUnit": "l",
+    "category": "Sonnenblumenöl"
+  },
+  {
+    "id": "3215098",
+    "store": "spar",
+    "name": "Pinzgau Milch Bergbauern Butter 82% Fett",
+    "description": "",
+    "price": 2.59,
+    "priceHistory": [
+      {
+        "date": "2023-02-22",
+        "price": 2.59
+      },
+      {
+        "date": "2022-12-01",
+        "price": 2.79
+      },
+      {
+        "date": "2022-09-30",
+        "price": 2.59
+      },
+      {
+        "date": "2022-03-11",
+        "price": 2.25
+      },
+      {
+        "date": "2022-02-10",
+        "price": 1.79
+      }
+    ],
+    "unit": "g",
+    "quantity": 250,
+    "calcPricePerUnit": 10.36,
+    "calcUnit": "kg",
+    "category": "Butter"
+  },
+  {
+    "id": "151238",
+    "store": "spar",
+    "name": "Red Bull Energy Drink",
+    "description": "FLÜGEL, WENN MAN SIE BRAUCHT: <br>Red Bull Energy Drink belebt Geist und Körper®. Red Bull Energy Drink, die #1 unter den Energy Drinks in Österreich, ist ein funktionales Getränk, das Flügel verleiht, wann immer man sie braucht: beim Autofahren, wenn Vorlesungen oder Prüfungen anstehen, bei der Arbeit, beim Sport oder Gaming oder beim Ausgehen – am Tag oder in der Nacht....<br><br>DAS PRODUKT:<br>• 250 ml Dose Red Bull Energy Drink<br>• die spezielle Formel von Red Bull Energy Drink enthält Zutaten höchster Qualität: Koffein, Taurin, B-Komplex-Vitamine, Zucker, alpines Wasser <br>• Red Bull Dosen bestehen zu 100% aus recycelbarem Aluminium<br><br>",
+    "price": 1.49,
+    "priceHistory": [
+      {
+        "date": "2023-01-02",
+        "price": 1.49
+      },
+      {
+        "date": "2022-12-21",
+        "price": 0.89
+      },
+      {
+        "date": "2022-11-03",
+        "price": 1.49
+      },
+      {
+        "date": "2022-10-19",
+        "price": 0.89
+      },
+      {
+        "date": "2022-04-28",
+        "price": 1.49
+      }
+    ],
+    "unit": "ml",
+    "quantity": 250,
+    "calcPricePerUnit": 5.96,
+    "calcUnit": "l",
+    "category": "Energy Drink"
+  },
+  {
+    "id": "6942526",
+    "store": "spar",
+    "name": "S-BUDGET Bananen per kg",
+    "description": "Bananen, ein basisches Obst, haben viel Stärke und sind daher sehr vielseitig einsetzbar. Sie können pur, kalt oder sogar warm genossen werden. Der Phantasie sind keine Grenzen gesetzt. Für tolle Rezeptideen schauen Sie doch einfach mal auf www.spar.at/mahlzeit",
+    "price": 1.69,
+    "priceHistory": [
+      {
+        "date": "2023-07-02",
+        "price": 1.69
+      },
+      {
+        "date": "2023-06-30",
+        "price": 1.49
+      },
+      {
+        "date": "2023-06-04",
+        "price": 1.69
+      },
+      {
+        "date": "2023-06-02",
+        "price": 1.49
+      },
+      {
+        "date": "2023-05-22",
+        "price": 1.69
+      }
+    ],
+    "unit": "g",
+    "quantity": 1000,
+    "calcPricePerUnit": 1.69,
+    "calcUnit": "kg",
+    "category": "Bananen"
+  },
+  {
+    "id": "7615153",
+    "store": "spar",
+    "name": "S-BUDGET Buttercroissant 1 STK",
+    "description": "- original französisches Butter-Croissant<br>- Backofenfrisch",
+    "price": 0.59,
+    "priceHistory": [
+      {
+        "date": "2022-09-30",
+        "price": 0.59
+      },
+      {
+        "date": "2022-01-02",
+        "price": 0.55
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.49
+      }
+    ],
+    "unit": "stk",
+    "quantity": 1,
+    "calcPricePerUnit": 0.59,
+    "calcUnit": "stk",
+    "category": "Butter"
+  },
+  {
+    "id": "2020002281397",
+    "store": "spar",
+    "name": "S-BUDGET Faschiertes gemischt per Packung",
+    "description": "",
+    "price": 5.58,
+    "priceHistory": [
+      {
+        "date": "2023-07-06",
+        "price": 5.58
+      },
+      {
+        "date": "2023-06-22",
+        "price": 4.49
+      },
+      {
+        "date": "2023-05-15",
+        "price": 5.58
+      },
+      {
+        "date": "2023-04-28",
+        "price": 4.49
+      },
+      {
+        "date": "2023-04-14",
+        "price": 5.58
+      }
+    ],
+    "unit": "g",
+    "quantity": 700,
+    "calcPricePerUnit": 7.971428571428572,
+    "calcUnit": "kg",
+    "category": "Faschiertes"
+  },
+  {
+    "id": "7354236",
+    "store": "spar",
+    "name": "S-BUDGET Orangennektar aus Orangensaftkonzentrat, 50%",
+    "description": "",
+    "price": 0.99,
+    "priceHistory": [
+      {
+        "date": "2023-05-05",
+        "price": 0.99
+      },
+      {
+        "date": "2023-02-14",
+        "price": 0.95
+      },
+      {
+        "date": "2022-12-06",
+        "price": 0.99
+      },
+      {
+        "date": "2022-02-08",
+        "price": 0.89
+      },
+      {
+        "date": "2017-11-10",
+        "price": 0.95
+      }
+    ],
+    "unit": "ml",
+    "quantity": 1500,
+    "calcPricePerUnit": 0.66,
+    "calcUnit": "l",
+    "category": "Orangensaft"
+  },
+  {
+    "id": "7088087",
+    "store": "spar",
+    "name": "S-BUDGET Toastbrot",
+    "description": "",
+    "price": 0.95,
+    "priceHistory": [
+      {
+        "date": "2022-09-30",
+        "price": 0.95
+      },
+      {
+        "date": "2022-03-30",
+        "price": 0.89
+      },
+      {
+        "date": "2022-01-02",
+        "price": 0.77
+      },
+      {
+        "date": "2021-07-14",
+        "price": 0.69
+      },
+      {
+        "date": "2021-02-10",
+        "price": 0.59
+      }
+    ],
+    "unit": "g",
+    "quantity": 500,
+    "calcPricePerUnit": 1.9,
+    "calcUnit": "kg",
+    "category": "Toast"
+  },
+  {
+    "id": "6737634",
+    "store": "spar",
+    "name": "SPAR Natur*pur Bio-Äpfel Arlet per kg",
+    "description": "Äpfel sind ein Kernobst, das besonders gerne in Österreich genossen wird. Egal ob verkocht, gebacken oder knackfrisch einfach abgebissen.",
+    "price": 2.99,
+    "priceHistory": [
+      {
+        "date": "2023-04-28",
+        "price": 2.99
+      },
+      {
+        "date": "2023-04-21",
+        "price": 2.19
+      },
+      {
+        "date": "2022-12-05",
+        "price": 2.99
+      },
+      {
+        "date": "2022-12-04",
+        "price": 2.79
+      },
+      {
+        "date": "2022-12-02",
+        "price": 1.99
+      }
+    ],
+    "unit": "g",
+    "quantity": 1000,
+    "calcPricePerUnit": 2.99,
+    "calcUnit": "kg",
+    "category": "Äpfel"
+  },
+  {
+    "id": "2103617",
+    "store": "spar",
+    "name": "SPAR Vital Polpa Fine Fein gehackte Tomaten",
+    "description": "",
+    "price": 1.39,
+    "priceHistory": [
+      {
+        "date": "2022-10-18",
+        "price": 1.39
+      },
+      {
+        "date": "2021-12-08",
+        "price": 1.19
+      },
+      {
+        "date": "2017-04-20",
+        "price": 0.99
+      }
+    ],
+    "unit": "g",
+    "quantity": 400,
+    "calcPricePerUnit": 3.4749999999999996,
+    "calcUnit": "kg",
+    "category": "Tomaten"
+  }
+]
