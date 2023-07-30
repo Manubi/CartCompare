@@ -1,4 +1,7 @@
 {
+  "name": "cartcompare",
+  "version": "0.0.1",
+  "description": "CartCompare's backend, engineered with Node.js and Express.js, efficiently compares grocery prices across various Austrian stores, providing alerts for price drops and the latest discounts.",
   "scripts": {
     "start": "nodemon --watch 'src/**/*' -e ts,tsx --exec 'ts-node' src/app.ts"
   },
