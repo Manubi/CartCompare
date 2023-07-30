@@ -1,8 +1,8 @@
-# Grocery Price Comparison App
+# CartCompare App
 
 ## Description
 
-Born out of the innovative energy at the [Coding Austria](https://codingaustria.at/) hackathon, we introduce CartCompare. Our app offers a novel way for users in Austria to compare grocery prices across different stores, ensuring they always get the best deal. Stay ahead with alerts for price drops and discover the latest discounts. The app is engineered using Node.js and Express.js, guaranteeing an efficient and scalable backend. To deliver a seamless user experience on Apple devices, we've built a slick Swift-based iOS frontend. Experience smarter shopping with CartCompare.
+CartCompare was developed during the [Coding Austria](https://codingaustria.at/) hackathon. The iOS App is a unique platform that allows users to compare grocery prices from different stores in Austria, set alerts for price drops, and discover the latest deals. This application is built with Node.js and Express.js, providing an efficient and scalable backend.
 
 ## Features
 
