@@ -2,7 +2,7 @@
 
 ## Description
 
-Grocery Price Comparison is developed during the [Coding Austria](https://codingaustria.at/) hackathon. The App is a unique platform that allows users to compare grocery prices from different stores in Austria, set alerts for price drops, and discover the latest deals. This application is built with Node.js and Express.js, providing an efficient and scalable backend.
+Grocery Price Comparison is developed during the [Coding Austria](https://codingaustria.at/) hackathon. The iOS App is a unique platform that allows users to compare grocery prices from different stores in Austria, set alerts for price drops, and discover the latest deals. This application is built with Node.js and Express.js, providing an efficient and scalable backend.
 
 ## Features
 
