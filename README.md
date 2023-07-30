@@ -1,4 +1,5 @@
 # CartCompare App
+Find the presentation slides [here](https://www.canva.com/design/DAFqADp79os/fb5xkjaFTLx7SMx81aE8Vw/edit?utm_content=DAFqADp79os&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Description
 
