@@ -12,6 +12,14 @@ CartCompare was developed during the [Coding Austria](https://codingaustria.at/)
 - Location-based recommendations for affordable grocery stores.
 - Integration with user shopping lists.
 
+## Photos
+<img src=https://github.com/Manubi/CartCompare/assets/80065244/22d4b09e-e07c-4cd9-9991-6b82a9ce262c width=16% height=16%>
+<img src=https://github.com/Manubi/CartCompare/assets/80065244/ce75d67e-448f-4450-81d3-88cc991e1cbf width=16% height=16%>
+<img src=https://github.com/Manubi/CartCompare/assets/80065244/b64c2d36-d736-466e-a82c-230e4d788b43 width=16% height=16%>
+<img src=https://github.com/Manubi/CartCompare/assets/80065244/21491a8a-509d-450e-a397-e87d21425680 width=16% height=16%>
+<img src=https://github.com/Manubi/CartCompare/assets/80065244/c574688f-0ab1-42bc-9379-9ad6d0f49d9b width=16% height=16%>
+<img src=https://github.com/Manubi/CartCompare/assets/80065244/80560147-9a5f-4b5b-a4d4-14a5ffdc8d9d width=16% height=16%>
+
 ## Getting Started
 
 Please find the iOS Swift code in the `CAHack` foler. These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
