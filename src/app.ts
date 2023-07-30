@@ -1,9 +1,14 @@
+import "dotenv/config";
 import express, { Request, Response } from "express";
 import fs from "fs";
+import { chatHandler } from "./handler/chatHandler";
+import { productsHandler } from "./handler/products";
+
 const app = express();
 const port = 3000;
+app.use(express.json()); // for parsing application/json
 
-interface Product {
+export interface Product {
   store: string;
   id: string;
   name: string;
@@ -115,7 +120,16 @@ app.get("/", (req: Request, res: Response) => {
   res.send("Hello World!");
 });
 
-app.get("/ids", (req: Request, res: Response) => {
+app.post("/meals/recommendations", (req: Request, res: Response) => {
+  chatHandler(req, res); // chat gpt handler "message" in body
+});
+
+app.get("/products", (req: Request, res: Response) => {
+  productsHandler(req, res); // returns array of products
+});
+
+// TODO: refactor - reads filtered ids and transforms them for easier frontend use
+app.get("/prepareData", (req: Request, res: Response) => {
   fs.readFile("./filteredDataIds.json", "utf8", (err, data) => {
     if (err) {
       console.error(err);
@@ -182,13 +196,13 @@ app.get("/ids", (req: Request, res: Response) => {
         }
       );
 
-      res.send("Hello data!");
+      res.send(JSON.stringify(finalData, null, 2));
       //res.send(JSON.parse(data));
     }
   });
 });
 
-app.get("/products", (req: Request, res: Response) => {
+app.get("/getIdsFromData", (req: Request, res: Response) => {
   console.log("ids.length", ids.length);
   fs.readFile("./data.json", "utf8", (err, data) => {
     if (err) {
